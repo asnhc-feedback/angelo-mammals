@@ -1,0 +1,196 @@
+Report for Institution Code ASNHC, Resource angelo_mammals
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 72
+Number of records retrieved in searches: 577
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 3
+	Country: Brazil ; Times: 3
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Spain ; Times: 1
+	Country: United States ; Times: 57
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 1
+	Date: 2015-06-02 ; Times: 3
+	Date: 2015-06-03 ; Times: 2
+	Date: 2015-06-05 ; Times: 9
+	Date: 2015-06-06 ; Times: 3
+	Date: 2015-06-07 ; Times: 1
+	Date: 2015-06-08 ; Times: 1
+	Date: 2015-06-09 ; Times: 3
+	Date: 2015-06-10 ; Times: 3
+	Date: 2015-06-12 ; Times: 4
+	Date: 2015-06-13 ; Times: 1
+	Date: 2015-06-15 ; Times: 4
+	Date: 2015-06-16 ; Times: 1
+	Date: 2015-06-18 ; Times: 5
+	Date: 2015-06-19 ; Times: 10
+	Date: 2015-06-21 ; Times: 2
+	Date: 2015-06-23 ; Times: 4
+	Date: 2015-06-25 ; Times: 4
+	Date: 2015-06-26 ; Times: 6
+	Date: 2015-06-29 ; Times: 4
+	Date: 2015-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "spilogale tissue:1" ; Times: 1
+	Query: "cynomys ludovicianus texas" ; Times: 1
+	Query: "SOTO LA MARINA TAMAULIPAS" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "class:Mammalia Cercocebus galeritus" ; Times: 1
+	Query: "type:specimen catalognumber:14366" ; Times: 1
+	Query: "spilogale putorius type:specimen AND (ASNHC) tissue:1" ; Times: 2
+	Query: "spilogale putorius (ASNHC) tissue:1" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 2
+	Query: "Spilogale putorius stateprovince:"Texas"" ; Times: 1
+	Query: "spilogale putorius mappable:1 tissue:1" ; Times: 1
+	Query: "Equus grevyi" ; Times: 2
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "urocitellus RICHARDSONII" ; Times: 1
+	Query: "catalognumber:10981" ; Times: 1
+	Query: "institutioncode:asnhc mappable:1" ; Times: 2
+	Query: "spilogale putorius stateprovince:"Texas" tissue:1" ; Times: 3
+	Query: "12243 (skull)" ; Times: 1
+	Query: "Thyroptera tricolor" ; Times: 1
+	Query: "mammalia 10757" ; Times: 1
+	Query: "panthera onca mexico" ; Times: 1
+	Query: "stateprovince:"Texas" specificepithet:breviceps genus:Geomys" ; Times: 1
+	Query: "catalognumber:14366" ; Times: 1
+	Query: "bull frog" ; Times: 1
+	Query: "12956" ; Times: 1
+	Query: ""mustela nigripes"" ; Times: 1
+	Query: "Thyroptera" ; Times: 2
+	Query: ""didelphis virginiana" tissue:1" ; Times: 1
+	Query: "la venta" ; Times: 1
+	Query: "ring-tailed lemur" ; Times: 3
+	Query: "12243" ; Times: 1
+	Query: "spilogale putorius type:specimen tissue:1" ; Times: 3
+	Query: "urocitellus richardsonii" ; Times: 2
+	Query: "Taxidea taxus tissue:1" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Ochrotomys tissue:1" ; Times: 1
+	Query: "cynomys ludovicianus Texas" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "Lonchorhina aurita" ; Times: 1
+	Query: "spilogale putorius tissue:1" ; Times: 3
+	Query: ""Rattus norvegicus" type:specimen tissue:1" ; Times: 1
+	Query: "catalognumber:15563" ; Times: 1
+	Query: "stateprovince:"Texas" specificepithet:putorius genus:Spilogale" ; Times: 2
+	Query: "septentrionalis missouri" ; Times: 2
+	Query: "Nesoryzomys" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "genus:myrmecophaga" ; Times: 1
+	Query: "catalognumber:14017" ; Times: 1
+	Query: "Parastrellus hesperus country:"Mexico"" ; Times: 1
+	Query: "specificepithet:uncia" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 1524 download events in this period)
+Total number of records downloaded: 2496 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2299
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Paraguay ; Times: 1
+	Country: United States ; Times: 40
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 3
+	Date: 2015-06-02 ; Times: 1
+	Date: 2015-06-05 ; Times: 4
+	Date: 2015-06-06 ; Times: 2
+	Date: 2015-06-09 ; Times: 15
+	Date: 2015-06-10 ; Times: 2
+	Date: 2015-06-11 ; Times: 1
+	Date: 2015-06-12 ; Times: 1
+	Date: 2015-06-16 ; Times: 2
+	Date: 2015-06-18 ; Times: 4
+	Date: 2015-06-19 ; Times: 6
+	Date: 2015-06-22 ; Times: 2
+	Date: 2015-06-23 ; Times: 2
+	Date: 2015-06-25 ; Times: 3
+	Date: 2015-06-26 ; Times: 4
+	Date: 2015-06-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Parastrellus hesperus country:"Mexico"" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida tissue:1" ; Times: 1
+	Query: "country:"paraguay" class:mammalia" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "Thyroptera tricolor" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Myotis volans country:"United States"" ; Times: 1
+	Query: "spilogale putorius type:specimen AND (ASNHC) tissue:1" ; Times: 1
+	Query: "Myotis yumanensis country:"United States"" ; Times: 1
+	Query: "tamias umbrinus" ; Times: 2
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "Trachops cirrhosus" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: "Corynorhinus townsendii country:"United States"" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "spilogale putorius type:specimen tissue:1" ; Times: 1
+	Query: "urocitellus richardsonii" ; Times: 1
+	Query: "spilogale putorius stateprovince:"Texas" tissue:1" ; Times: 1
+	Query: "Lasiurus cinereus country:"United States"" ; Times: 1
+	Query: "Spilogale putorius stateprovince:"Texas"" ; Times: 1
+	Query: ""didelphis virginiana"" ; Times: 1
+	Query: "Sturnira" ; Times: 1
+	Query: "Corynorhinus townsendii country:"United States" mappable:1" ; Times: 2
+	Query: "stateprovince:"Texas" specificepithet:breviceps genus:Geomys" ; Times: 1
+	Query: "Corynorhinus townsendii country:"Mexico"" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "spilogale putorius" ; Times: 1
+	Query: "type:specimen country:"United States" specificepithet:pennanti class:Mammalia" ; Times: 1
+	Query: "specificepithet:pinetis genus:geomys" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "Thyroptera" ; Times: 1
+	Query: "Antrozous pallidus country:"United States"" ; Times: 1
+	Query: "stateprovince:"oklahoma" class:Mammalia" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "urocitellus parryii" ; Times: 1
+	Query: "Myotis evotis country:"United States"" ; Times: 1
+	Query: "stateprovince:"Colima" country:"Mexico"" ; Times: 1
+	Query: "Antrozous pallidus country:"Mexico"" ; Times: 1
+	Query: "county:"Kern" stateprovince:"california" mappable:1" ; Times: 1
+	Query: "Myotis thysanodes country:"United States"" ; Times: 1
+	Query: "Lonchorhina aurita" ; Times: 1
+	Query: "Lasionycteris noctivagans country:"United States"" ; Times: 1
+	Query: ""Rattus norvegicus" type:specimen tissue:1" ; Times: 1
+	Query: "class:mammalia year >= 1900 year <= 2015 distance(location,geopoint(39.93905620603078,-82.94677734375))<37433.163972486814" ; Times: 1
+	Query: "type:specimen specificepithet:brasiliensis genus:tadarida tissue:1" ; Times: 1
+	Query: "Eptesicus fuscus country:"United States"" ; Times: 2
+	Query: "Myotis californicus country:"mexico"" ; Times: 1
+	Query: "antilocapra americana mappable:1" ; Times: 1
+	Query: "Parastrellus hesperus country:"United States"" ; Times: 1
+	Query: "spilogale putorius tissue:1" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 188
+Total number of records retrieved from searches: 1954
+Number of download events that retrieved data from the resource: 149
+Total number of records downloaded: 27546
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 188
+Total number of records retrieved from searches: 1954
+Number of download events that retrieved data from the resource: 149
+Total number of records downloaded: 27546
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
