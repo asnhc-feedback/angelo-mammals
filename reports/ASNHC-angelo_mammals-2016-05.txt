@@ -1,0 +1,113 @@
+Report for Institution Code ASNHC, Resource angelo_mammals
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 44
+Number of records retrieved in searches: 306
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 24
+	Country: Colombia ; Times: 3
+	Country: Russia ; Times: 4
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 2
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-13 ; Times: 3
+	Date: 2016-05-02 ; Times: 3
+	Date: 2016-05-03 ; Times: 3
+	Date: 2016-05-04 ; Times: 3
+	Date: 2016-05-05 ; Times: 2
+	Date: 2016-05-06 ; Times: 1
+	Date: 2016-05-07 ; Times: 3
+	Date: 2016-05-26 ; Times: 1
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-25 ; Times: 4
+	Date: 2016-05-22 ; Times: 1
+	Date: 2016-05-30 ; Times: 1
+	Date: 2016-05-11 ; Times: 2
+	Date: 2016-05-21 ; Times: 3
+	Date: 2016-05-29 ; Times: 2
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-23 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "lasiurus intermedius tissue:1" ; Times: 1
+	Query: "1375 county:&#34;Montgomery&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:ototylomys stateprovince:&#34;chiapas&#34;" ; Times: 1
+	Query: "specificepithet:townsendii genus:Lepus year &gt;= 1990 year &lt;= 2016" ; Times: 1
+	Query: "sphiggurus" ; Times: 1
+	Query: "canis lupus texas" ; Times: 1
+	Query: "vampire" ; Times: 5
+	Query: "genus:ototylomys locality:berriozabal" ; Times: 1
+	Query: "nesoryzomys indefessus" ; Times: 3
+	Query: "specificepithet:texensis genus:Geomys" ; Times: 1
+	Query: "family:bovidae year &gt;= 1983 year &lt;= 1984" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis preparations:tissue" ; Times: 1
+	Query: "Micoureus demerarae" ; Times: 2
+	Query: "Tamandua mexicana" ; Times: 5
+	Query: "geomys knoxjonesi" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:arenarius genus:geomys year &gt;= 1990 year &lt;= 2015" ; Times: 6
+	Query: "genus:Peromyscus maniculatus county:&#34;Fremont&#34; stateprovince:&#34;Wyoming&#34; country:&#34;United States&#34; mappable:1 tissue:1" ; Times: 1
+	Query: "Lasiurus intermedius tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-109.037516))&lt;15000" ; Times: 1
+	Query: "dipodomys compactus" ; Times: 3
+	Query: "Marmota monax year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "lasiurus intermedius" ; Times: 2
+	Query: "specificepithet:knoxjonesi genus:geomys tissue:1" ; Times: 1
+	Query: "specificepithet:knoxjonesi genus:geomys" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 327 download events in this period)
+Total number of records downloaded: 3535
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Colombia ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-12 ; Times: 5
+	Date: 2016-05-05 ; Times: 3
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-23 ; Times: 2
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-31 ; Times: 6
+	Date: 2016-05-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Peromyscus" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "genus:Didelphis preparations:tissue" ; Times: 1
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "Canis type:specimen distance(location,geopoint(37.71859032558813,-95.44921875))&lt;2776004" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 2
+	Query: "uroderma bilobatum country:&#34;mexico&#34;" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "specificepithet:knoxjonesi genus:geomys" ; Times: 1
+
+
+End of report.
