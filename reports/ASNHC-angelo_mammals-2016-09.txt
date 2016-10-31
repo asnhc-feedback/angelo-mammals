@@ -1,0 +1,150 @@
+Report for Institution Code ASNHC, Resource angelo_mammals
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 86
+Number of records retrieved in searches: 1560
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Costa Rica ; Times: 2
+	Country: United States ; Times: 77
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-21 ; Times: 6
+	Date: 2016-09-01 ; Times: 4
+	Date: 2016-09-13 ; Times: 1
+	Date: 2016-09-12 ; Times: 1
+	Date: 2016-09-29 ; Times: 1
+	Date: 2016-09-08 ; Times: 9
+	Date: 2016-09-09 ; Times: 27
+	Date: 2016-09-15 ; Times: 1
+	Date: 2016-09-14 ; Times: 4
+	Date: 2016-09-10 ; Times: 2
+	Date: 2016-09-23 ; Times: 2
+	Date: 2016-09-05 ; Times: 4
+	Date: 2016-09-07 ; Times: 17
+	Date: 2016-09-04 ; Times: 1
+	Date: 2016-09-06 ; Times: 1
+	Date: 2016-09-02 ; Times: 1
+	Date: 2016-09-03 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "14798" ; Times: 1
+	Query: "&#34;giraffa&#34; &#34;camelopardalis&#34; mappable:1" ; Times: 1
+	Query: "catalognumber:12498" ; Times: 1
+	Query: "lemur catta" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 13
+	Query: "nine-banded armadillo" ; Times: 1
+	Query: "reithrodontomys gracilis" ; Times: 1
+	Query: "nine banded armadillo" ; Times: 1
+	Query: "specificepithet:plicata genus:Balantiopteryx tissue:1" ; Times: 1
+	Query: "nyctinomops tissue:1" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "c. prehensilis" ; Times: 5
+	Query: "&#34;porcupine&#34; &#34;erethizon&#34; mappable:1" ; Times: 2
+	Query: "vampire" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela institutioncode:ASNHC" ; Times: 1
+	Query: "vulpes macrotis stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "nycticebus coucang" ; Times: 1
+	Query: "Armadillo &#34;Dasypus novemcinctus&#34; mappable:1" ; Times: 2
+	Query: "Panthera tigris zoo" ; Times: 1
+	Query: "Kobus zoO" ; Times: 1
+	Query: "&#34;porcupine&#34; &#34;Erethizon&#34; mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:arenarius genus:geomys year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "&#34;dasypus&#34; &#34;armadillo&#34; mappable:1" ; Times: 1
+	Query: "armadillo" ; Times: 1
+	Query: "Coendou prehensiLis" ; Times: 1
+	Query: "class:Mammalia Coendou prehensilis" ; Times: 1
+	Query: "armadillo mappable:1" ; Times: 1
+	Query: "13921" ; Times: 1
+	Query: "nine banded armadillo mappable:1" ; Times: 2
+	Query: "Lonchorhina aurita" ; Times: 1
+	Query: "Conepatus leuconotus" ; Times: 1
+	Query: "Loxodonta africana mappable:1" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 6
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 4
+	Query: "Reithrodontomys gracilis" ; Times: 1
+	Query: "Spilogale (Texas)" ; Times: 12
+	Query: "Dasypus &#34;Nine-banded armadillo&#34;" ; Times: 1
+	Query: "&#34;armadillo&#34; &#34;dasypus&#34; mappable:1" ; Times: 2
+	Query: "dasypus &#34;nine-banded armadillo&#34;" ; Times: 1
+	Query: "Procyon lotor 1" ; Times: 8
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 154 (out of 811 download events in this period)
+Total number of records downloaded: 2659
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Netherlands ; Times: 99
+	Country: Mexico ; Times: 2
+	Country: Costa Rica ; Times: 2
+	Country: United States ; Times: 45
+	Country: United Kingdom ; Times: 1
+	Country: Paraguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 5
+	Date: 2016-09-04 ; Times: 3
+	Date: 2016-09-11 ; Times: 8
+	Date: 2016-09-10 ; Times: 2
+	Date: 2016-09-17 ; Times: 1
+	Date: 2016-09-16 ; Times: 3
+	Date: 2016-09-15 ; Times: 8
+	Date: 2016-09-14 ; Times: 3
+	Date: 2016-09-30 ; Times: 5
+	Date: 2016-09-19 ; Times: 3
+	Date: 2016-09-18 ; Times: 4
+	Date: 2016-09-20 ; Times: 1
+	Date: 2016-09-21 ; Times: 3
+	Date: 2016-09-27 ; Times: 10
+	Date: 2016-09-02 ; Times: 10
+	Date: 2016-09-25 ; Times: 2
+	Date: 2016-09-28 ; Times: 3
+	Date: 2016-09-29 ; Times: 2
+	Date: 2016-09-08 ; Times: 7
+	Date: 2016-09-09 ; Times: 2
+	Date: 2016-09-22 ; Times: 4
+	Date: 2016-09-23 ; Times: 9
+	Date: 2016-09-06 ; Times: 9
+	Date: 2016-09-07 ; Times: 6
+	Date: 2016-09-01 ; Times: 13
+	Date: 2016-09-24 ; Times: 1
+	Date: 2016-09-03 ; Times: 14
+	Date: 2016-09-12 ; Times: 6
+	Date: 2016-09-05 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "glossophaga soricina" ; Times: 1
+	Query: "molossidae tissue:1" ; Times: 1
+	Query: "class:Mammalia country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Conepatus leuconotus" ; Times: 1
+	Query: "giraffa camelopardalis mappable:1" ; Times: 1
+	Query: "type:specimen country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "tamias amoenus" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;California&#34;" ; Times: 12
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Natalus" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "Lonchorhina aurita" ; Times: 1
+	Query: "artibeus jamaicensis" ; Times: 1
+	Query: "&#34;Mephitis mephitis&#34; mappable:1" ; Times: 2
+	Query: "order:Rodentia stateprovince:&#34;Utah&#34;" ; Times: 4
+	Query: "genus:ochotona" ; Times: 2
+	Query: "vulpes macrotis stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 120
+	Query: "specificepithet:soricina genus:Glossophaga mappable:1 tissue:1" ; Times: 1
+
+
+End of report.
