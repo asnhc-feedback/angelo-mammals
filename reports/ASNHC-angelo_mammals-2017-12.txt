@@ -1,0 +1,168 @@
+Report for Institution Code ASNHC, Resource angelo_mammals
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 74
+Number of records retrieved in searches: 274
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 50
+	Country: Denmark ; Times: 8
+	Country: United Kingdom ; Times: 2
+	Country: Unknown ; Times: 11
+	Country: China ; Times: 2
+	Country: Gambia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-06 ; Times: 1
+	Date: 2017-12-03 ; Times: 3
+	Date: 2017-12-26 ; Times: 1
+	Date: 2017-12-31 ; Times: 3
+	Date: 2017-12-24 ; Times: 4
+	Date: 2017-12-21 ; Times: 4
+	Date: 2017-12-20 ; Times: 5
+	Date: 2017-12-05 ; Times: 8
+	Date: 2017-12-04 ; Times: 12
+	Date: 2017-12-07 ; Times: 4
+	Date: 2017-12-15 ; Times: 2
+	Date: 2017-12-01 ; Times: 5
+	Date: 2017-12-13 ; Times: 4
+	Date: 2017-12-10 ; Times: 2
+	Date: 2017-12-11 ; Times: 3
+	Date: 2017-12-12 ; Times: 4
+	Date: 2017-12-08 ; Times: 2
+	Date: 2017-12-02 ; Times: 1
+	Date: 2017-12-09 ; Times: 3
+	Date: 2017-12-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(43.1386926445001,-71.1485120105))&lt;29323" ; Times: 1
+	Query: "Philander opossum angelo state" ; Times: 1
+	Query: "LASIURUS SEMINOLUS" ; Times: 2
+	Query: "distance(location,geopoint(39.0779691205001,-79.388352509))&lt;12951" ; Times: 1
+	Query: "clouded leopard" ; Times: 1
+	Query: "star-nosed mole" ; Times: 4
+	Query: "genus:geomys county:&#34;goliad&#34; stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "ermine" ; Times: 1
+	Query: "specificepithet:keaysi genus:Myotis" ; Times: 2
+	Query: "lasiurus seminolus" ; Times: 3
+	Query: "catalognumber:1282 institutioncode:ASNHC" ; Times: 2
+	Query: "Appalachian cottontail" ; Times: 1
+	Query: "Tapirus terrestris terrestris" ; Times: 1
+	Query: "specificepithet:castanops genus:Cratogeomys year &gt;= 2001 year &lt;= 2017 mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(36.6915912240001,-75.9568339719999))&lt;10755" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Kenedy&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:hispidus genus:sigmodon stateprovince:&#34;chihuahua&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:crocuta genus:crocuta country:&#34;kenya&#34; institutioncode:ASNHC" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Val Verde&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Texas&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 7
+	Query: "genus:dasypus catalognumber:1285 institutioncode:asnhc" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 3
+	Query: "specificepithet:crocuta genus:crocuta country:&#34;kenya&#34;" ; Times: 1
+	Query: "Zapus 2534" ; Times: 1
+	Query: "genus:Eptesicus stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "order:cingulata country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Real&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "proboscis monkey" ; Times: 1
+	Query: "catalognumber:9995" ; Times: 1
+	Query: "Red wolf" ; Times: 1
+	Query: "genus:geomys county:&#34;nueces&#34; stateprovince:&#34;texas&#34;" ; Times: 10
+	Query: "rock hyrax" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus stateprovince:&#34;montana&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "genus:sigmodon stateprovince:&#34;chihuahua&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:keaysi genus:Myotis hastissue:1" ; Times: 1
+	Query: "Ermine" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Kinney&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:dasypus catalognumber:12714 institutioncode:asnhc" ; Times: 1
+	Query: "mustela frenata massachusetts" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 674 download events in this period)
+Total number of records downloaded: 3415
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 40
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-05 ; Times: 2
+	Date: 2017-12-27 ; Times: 7
+	Date: 2017-12-26 ; Times: 12
+	Date: 2017-12-11 ; Times: 2
+	Date: 2017-12-20 ; Times: 2
+	Date: 2017-12-16 ; Times: 1
+	Date: 2017-12-04 ; Times: 2
+	Date: 2017-12-14 ; Times: 3
+	Date: 2017-12-06 ; Times: 2
+	Date: 2017-12-12 ; Times: 1
+	Date: 2017-12-31 ; Times: 4
+	Date: 2017-12-03 ; Times: 1
+	Date: 2017-12-02 ; Times: 1
+	Date: 2017-12-15 ; Times: 4
+	Date: 2017-12-18 ; Times: 1
+	Date: 2017-12-19 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Microtus miurus" ; Times: 1
+	Query: "Sylvilagus audubonii mappable:1" ; Times: 2
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "Martes pennanti mappable:1" ; Times: 1
+	Query: "chipmunk" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis" ; Times: 1
+	Query: "Lepus townsendii mappable:1" ; Times: 1
+	Query: "Napaeozapus insignis mappable:1" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Tamiasciurus hudsonicus mappable:1" ; Times: 1
+	Query: "Odocoileus hemionus mappable:1" ; Times: 1
+	Query: "microtus miurus" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:maniculatus genus:Peromyscus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Sciurus carolinensis mappable:1" ; Times: 1
+	Query: "Zapus hudsonius mappable:1" ; Times: 1
+	Query: "Appalachian cottontail" ; Times: 1
+	Query: "specificepithet:castanops genus:Cratogeomys year &gt;= 2001 year &lt;= 2017 mappable:1" ; Times: 1
+	Query: "Microtus pinetorum mappable:1" ; Times: 1
+	Query: "sorex longirostris" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 1
+	Query: "Sylvilagus nuttallii mappable:1" ; Times: 1
+	Query: "sorex monticolus" ; Times: 1
+	Query: "Zapus princeps mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;Campeche&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:palustris genus:Oryzomys stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Tamiasciurus douglasii mappable:1" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "Synaptomys borealis mappable:1" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Sciurus niger mappable:1" ; Times: 1
+	Query: "order:cingulata country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "genus:didelphis hastissue:1" ; Times: 1
+	Query: "Perognathus flavescens mappable:1" ; Times: 1
+	Query: "sorex fumeus" ; Times: 1
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Mustela erminea mappable:1" ; Times: 1
+	Query: "specificepithet:castanops genus:Cratogeomys year &gt;= 1970 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "Mustela frenata mappable:1" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "Martes americana mappable:1" ; Times: 1
+	Query: "specificepithet:keaysi genus:Myotis hastissue:1" ; Times: 1
+	Query: "genus:odocoileus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "sylvilagus audubonii" ; Times: 1
+	Query: "Sylvilagus floridanus mappable:1" ; Times: 1
+
+
+End of report.
