@@ -1,0 +1,349 @@
+Report for Institution Code ASNHC, Resource angelo_mammals
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 347
+Number of records retrieved in searches: 3802
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 192
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 57
+	Country: Unknown ; Times: 13
+	Country: United Kingdom ; Times: 4
+	Country: Colombia ; Times: 2
+	Country: Denmark ; Times: 69
+	Country: Russia ; Times: 2
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 1
+	Date: 2018-01-18 ; Times: 4
+	Date: 2018-01-31 ; Times: 20
+	Date: 2018-01-30 ; Times: 12
+	Date: 2018-01-11 ; Times: 1
+	Date: 2018-01-10 ; Times: 16
+	Date: 2018-01-13 ; Times: 10
+	Date: 2018-01-12 ; Times: 12
+	Date: 2018-01-15 ; Times: 29
+	Date: 2018-01-14 ; Times: 17
+	Date: 2018-01-17 ; Times: 10
+	Date: 2018-01-16 ; Times: 59
+	Date: 2018-01-24 ; Times: 11
+	Date: 2018-01-25 ; Times: 58
+	Date: 2018-01-08 ; Times: 3
+	Date: 2018-01-09 ; Times: 3
+	Date: 2018-01-28 ; Times: 1
+	Date: 2018-01-29 ; Times: 8
+	Date: 2018-01-02 ; Times: 5
+	Date: 2018-01-03 ; Times: 4
+	Date: 2018-01-26 ; Times: 17
+	Date: 2018-01-01 ; Times: 6
+	Date: 2018-01-06 ; Times: 5
+	Date: 2018-01-21 ; Times: 1
+	Date: 2018-01-22 ; Times: 2
+	Date: 2018-01-05 ; Times: 2
+	Date: 2018-01-23 ; Times: 13
+	Date: 2018-01-27 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "D. virginiana Didelphis virginiana mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(39.0779691205001,-79.388352509))&lt;12951" ; Times: 2
+	Query: "Pteronotus davyi" ; Times: 1
+	Query: "&#34;Bassariscus astutus&#34; mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(30.5863181975001,-98.057143162))&lt;14567" ; Times: 3
+	Query: "distance(location,geopoint(42.8782732660001,-71.4092722185))&lt;11003" ; Times: 2
+	Query: "Acinonyx jubatus" ; Times: 4
+	Query: "Diphylla ecaudata" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "sika deer" ; Times: 2
+	Query: "genus:Didelphis catalognumber:13677 institutioncode:ASNHC" ; Times: 1
+	Query: "Dasypus novemcinctus skeleton" ; Times: 1
+	Query: "Armadillo mappable:1" ; Times: 1
+	Query: "&#34;Lemur catta&#34;" ; Times: 1
+	Query: "catalognumber:13537 institutioncode:ASNHC" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 5
+	Query: "Loxodonta africana" ; Times: 12
+	Query: "Loxodonta africana africana mappable:1" ; Times: 6
+	Query: "Peromyscus aztecus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "distance(location,geopoint(36.6915912240001,-75.9568339719999))&lt;10755" ; Times: 2
+	Query: "catalognumber:11164 institutioncode:ASNHC" ; Times: 2
+	Query: "Platyrrhinus helleri" ; Times: 1
+	Query: "Lasiurus intermedius" ; Times: 1
+	Query: "specificepithet:bursarius genus:Geomys year &gt;= 2001 year &lt;= 2017 mappable:1" ; Times: 1
+	Query: "giraffa" ; Times: 1
+	Query: "catalognumber:13626 institutioncode:ASNHC" ; Times: 2
+	Query: "Peromyscus guatemalensis" ; Times: 1
+	Query: "nine-banded armadillo" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "Oligoryzomys fulvescens" ; Times: 1
+	Query: "genus:Didelphis catalognumber:5640 institutioncode:ASNHC" ; Times: 1
+	Query: "distance(location,geopoint(33.8480714503581,-106.865426345))&lt;4142" ; Times: 3
+	Query: "Cervus nippon" ; Times: 1
+	Query: "Ototylomys phyllotis" ; Times: 1
+	Query: "Giraffa camelopardalis mappable:1" ; Times: 1
+	Query: "Conepatus leuconotus" ; Times: 1
+	Query: "distance(location,geopoint(40.7123988985001,-74.471782073))&lt;6083" ; Times: 2
+	Query: "Molossus sinaloae" ; Times: 1
+	Query: "(Armadillo) mappable:1" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "Panthera leo" ; Times: 3
+	Query: "YUCATAN CARNIVORA" ; Times: 1
+	Query: "masked shrew" ; Times: 1
+	Query: "norway rat" ; Times: 1
+	Query: "catalognumber:13559 institutioncode:ASNHC" ; Times: 2
+	Query: "specificepithet:Intermedius genus:Lasiurus hastissue:1" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "Ceratotherium simum" ; Times: 4
+	Query: "Philander opossum" ; Times: 1
+	Query: "genus:Didelphis catalognumber:10196 institutioncode:ASNHC" ; Times: 2
+	Query: "Loxodonta africana africana" ; Times: 4
+	Query: "catalognumber:1290" ; Times: 2
+	Query: "Tylomys nudicaudus" ; Times: 1
+	Query: "catalognumber:1044" ; Times: 1
+	Query: "&#34;Loxodonta africana&#34; mappable:1" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Chiroderma salvini" ; Times: 1
+	Query: "distance(location,geopoint(26.250399137,-97.3632468503964))&lt;6433" ; Times: 3
+	Query: "genus:Didelphis catalognumber:10195 institutioncode:ASNHC" ; Times: 1
+	Query: "Tapirus terrestris terrestris" ; Times: 4
+	Query: "vampire" ; Times: 1
+	Query: "distance(location,geopoint(26.219201413,-98.5266965236825))&lt;20217" ; Times: 3
+	Query: "Peromyscus yucatanicus" ; Times: 1
+	Query: "catalognumber:13625 institutioncode:ASNHC" ; Times: 1
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "catalognumber:9476 institutioncode:ASNHC" ; Times: 1
+	Query: "genus:Didelphis catalognumber:13228 institutioncode:ASNHC" ; Times: 1
+	Query: "Diceros bicornis bicornis" ; Times: 3
+	Query: "Oryzomys couesi" ; Times: 1
+	Query: "&#34;nine banded armadillo&#34;" ; Times: 1
+	Query: "Myotis riparius" ; Times: 1
+	Query: "Sorex veraepacis" ; Times: 1
+	Query: "acinonyx jubatus hastissue:1" ; Times: 1
+	Query: "genus:Didelphis catalognumber:11792 institutioncode:ASNHC" ; Times: 2
+	Query: "(armadillo) mappable:1" ; Times: 1
+	Query: "Chiroderma villosum" ; Times: 1
+	Query: "distance(location,geopoint(26.072162259,-97.27039699975))&lt;4256" ; Times: 3
+	Query: "Panthera tigris" ; Times: 3
+	Query: "Myotis Keaysi keaysi" ; Times: 1
+	Query: "Centurio senex" ; Times: 1
+	Query: "armadillo mappable:1" ; Times: 5
+	Query: "Diceros bicornis" ; Times: 5
+	Query: "distance(location,geopoint(30.1551591,-94.8285476729999))&lt;29704" ; Times: 3
+	Query: "Myotis fortidens" ; Times: 1
+	Query: "nine banded armadillo mappable:1" ; Times: 2
+	Query: "genus:geomys locality:mustang island stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "(wilson hodge) institutioncode:ASNHC" ; Times: 1
+	Query: "genus:Didelphis catalognumber:12847 institutioncode:ASNHC" ; Times: 1
+	Query: "catalognumber:11163 institutioncode:ASNHC" ; Times: 4
+	Query: "genus:Didelphis catalognumber:12491 institutioncode:ASNHC" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "order:chiroptera stateprovince:&#34;North Dakota&#34;" ; Times: 1
+	Query: "Diceros bicornis mappable:1" ; Times: 1
+	Query: "&#34;Dasypus novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "allen county ohio" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Kinney&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:14032 institutioncode:ASNHC" ; Times: 2
+	Query: "genus:Ochrotomys hastissue:1" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "Capra nubiana" ; Times: 4
+	Query: "lasiurus blossevillii" ; Times: 1
+	Query: "genus:Didelphis catalognumber:10964 institutioncode:ASNHC" ; Times: 2
+	Query: "Trachops cirrhosus" ; Times: 1
+	Query: "Saccopteryx bilineata" ; Times: 1
+	Query: "Myotis Keaysi" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "E. dorsatum Erethizon dorsatum mappable:1" ; Times: 2
+	Query: "specificepithet:rosalia genus:Leontopithecus" ; Times: 3
+	Query: "Tamandua mexicana Mexico" ; Times: 5
+	Query: "Armadillo" ; Times: 2
+	Query: "Panthera tigris tigris" ; Times: 4
+	Query: "armadillo class:Mammalia continent:North America mappable:1" ; Times: 1
+	Query: "catalognumber:13674 institutioncode:ASNHC" ; Times: 2
+	Query: "diceros" ; Times: 1
+	Query: "catalognumber:14884 institutioncode:ASNHC" ; Times: 2
+	Query: "Equus caballus" ; Times: 3
+	Query: "distance(location,geopoint(26.110795247,-98.2710711635))&lt;13014" ; Times: 3
+	Query: "genus:Didelphis catalognumber:12703 institutioncode:ASNHC" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Real&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Panthera leo leo" ; Times: 3
+	Query: "Reithrodontomys microdon" ; Times: 1
+	Query: "armadillo" ; Times: 2
+	Query: "specificepithet:niger genus:Sciurus institutioncode:ASNHC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "catalognumber:4458" ; Times: 2
+	Query: "Equus caballus caballus" ; Times: 2
+	Query: "distance(location,geopoint(26.1452458115,-97.35916359425))&lt;5764" ; Times: 3
+	Query: "distance(location,geopoint(26.193393639,-97.36361615425))&lt;6587" ; Times: 3
+	Query: "ASNHC" ; Times: 1
+	Query: "Heteromys gaumeri" ; Times: 1
+	Query: "&#34;Armadillo&#34; mappable:1" ; Times: 1
+	Query: "Lonchorhina aurita" ; Times: 1
+	Query: "catalognumber:15247 institutioncode:ASNHC" ; Times: 2
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "Rhynchonycteris naso" ; Times: 1
+	Query: "Peropteryx macrotis" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Val Verde&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "nine-banded armadillo mappable:1" ; Times: 1
+	Query: "(Giraffa camelopardalis) mappable:1" ; Times: 1
+	Query: "cheetah hastissue:1" ; Times: 3
+	Query: "cervus nippon" ; Times: 2
+	Query: "armadillo continent:North America mappable:1" ; Times: 1
+	Query: "Heteromys desmarestianus" ; Times: 1
+	Query: "14014" ; Times: 1
+	Query: "specificepithet:dorsatum genus:erethizon stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Ceratotherium simum simum" ; Times: 3
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "anteater" ; Times: 1
+	Query: "&#34;Ceratotherium simum&#34; mappable:1" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 6
+	Query: "neofelis" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "catalognumber:4208" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "&#34;lemur catta&#34;" ; Times: 1
+	Query: "catalognumber:10738" ; Times: 3
+	Query: "dinomys" ; Times: 2
+	Query: "Dermanura phaeotis" ; Times: 1
+	Query: "Thyroptera tricolor" ; Times: 1
+	Query: "Eptesicus furinalis" ; Times: 1
+	Query: "distance(location,geopoint(26.307404635,-97.3751913582693))&lt;5240" ; Times: 3
+	Query: "distance(location,geopoint(41.6832245335001,-79.9706774))&lt;14151" ; Times: 3
+	Query: "cheetah" ; Times: 3
+	Query: "genus:Didelphis catalognumber:14681 institutioncode:ASNHC" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 11
+	Query: "Orthogeomys hispidus" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:arenarius genus:geomys year &gt;= 1990 year &lt;= 2015" ; Times: 4
+	Query: "Myotis elegans" ; Times: 1
+	Query: "ammotragus lervia" ; Times: 1
+	Query: "distance(location,geopoint(33.802489436786,-106.865426345))&lt;4226" ; Times: 3
+	Query: "Oryzomys alfaroi" ; Times: 1
+	Query: "Lasiurus blossevillii mappable:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Kenedy&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "distance(location,geopoint(26.42121702,-98.911099544))&lt;20391" ; Times: 4
+	Query: "dasypus novemcinctus class:Mammalia continent:North America mappable:1" ; Times: 1
+	Query: "Rhogeessa tumida" ; Times: 1
+	Query: "Peromyscus zarhynchus" ; Times: 1
+	Query: "Loxodonta africana mappable:1" ; Times: 4
+	Query: "Reithrodontomys gracilis" ; Times: 1
+	Query: "genus:panthera hastissue:1" ; Times: 5
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Sylvilagus obscurus mappable:1" ; Times: 1
+	Query: "genus:Didelphis catalognumber:14145 institutioncode:ASNHC" ; Times: 1
+	Query: "catalognumber:11141 institutioncode:ASNHC" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 73 (out of 1398 download events in this period)
+Total number of records downloaded: 5540
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Italy ; Times: 15
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 1
+	Country: United States ; Times: 46
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 1
+	Date: 2018-01-18 ; Times: 3
+	Date: 2018-01-08 ; Times: 2
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-02 ; Times: 15
+	Date: 2018-01-06 ; Times: 13
+	Date: 2018-01-01 ; Times: 1
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-31 ; Times: 8
+	Date: 2018-01-04 ; Times: 2
+	Date: 2018-01-05 ; Times: 1
+	Date: 2018-01-24 ; Times: 3
+	Date: 2018-01-30 ; Times: 5
+	Date: 2018-01-17 ; Times: 2
+	Date: 2018-01-25 ; Times: 4
+	Date: 2018-01-16 ; Times: 4
+	Date: 2018-01-11 ; Times: 3
+	Date: 2018-01-23 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "geomys pinetis" ; Times: 1
+	Query: "Myotis evotis mappable:1" ; Times: 1
+	Query: "ammotragus lervia" ; Times: 1
+	Query: "Myotis thysanodes mappable:1" ; Times: 1
+	Query: "Lasiurus cinereus mappable:1" ; Times: 1
+	Query: "family:Leporidae basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "Reithrodontomys humulis" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "Myotis volans mappable:1" ; Times: 1
+	Query: "Boselaphus tragocamelus" ; Times: 1
+	Query: "Rattus rattus" ; Times: 2
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Dipodomys spectabilis" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "genetta genetta" ; Times: 1
+	Query: "Myotis lucifugus mappable:1" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Dama dama" ; Times: 1
+	Query: "notiosorex" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 2
+	Query: "Octodon" ; Times: 1
+	Query: "Lasiurus borealis mappable:1" ; Times: 1
+	Query: "specificepithet:soricina genus:glossophaga hastissue:1" ; Times: 1
+	Query: "Myotis ciliolabrum mappable:1" ; Times: 1
+	Query: "Herpestes javanicus" ; Times: 1
+	Query: "Myotis septentrionalis mappable:1" ; Times: 1
+	Query: "genus:Napaeozapus" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 2
+	Query: "specificepithet:fuscus genus:Eptesicus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Neovison vison" ; Times: 1
+	Query: "genus:Odocoileus country:&#34;United States&#34;" ; Times: 1
+	Query: "order:Diprotodontia" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "Hylobates lar" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 2
+	Query: "dinomys" ; Times: 1
+	Query: "specificepithet:bursarius genus:Geomys year &gt;= 2001 year &lt;= 2017 mappable:1" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus institutioncode:ASNHC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "specificepithet:cinereicollis genus:Tamias" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "Lasiurus blossevillii mappable:1" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "Cervus nippon" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "genus:Dipodomys county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Myotis yumanensis mappable:1" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis mappable:1" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "order:Didelphimorphia" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "Myotis californicus mappable:1" ; Times: 1
+	Query: "Dermanura" ; Times: 1
+	Query: "order:Chiroptera country:&#34;United States&#34;" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "Myotis leibii mappable:1" ; Times: 1
+	Query: "genus:Zapus" ; Times: 1
+	Query: "Lasiurus seminolus mappable:1" ; Times: 1
+
+
+End of report.
