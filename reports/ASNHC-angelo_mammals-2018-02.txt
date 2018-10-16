@@ -1,0 +1,331 @@
+Report for Institution Code ASNHC, Resource angelo_mammals
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 179
+Number of records retrieved in searches: 1637
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 13
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Portugal ; Times: 6
+	Country: Mexico ; Times: 6
+	Country: Denmark ; Times: 8
+	Country: United States ; Times: 115
+	Country: Colombia ; Times: 25
+	Country: Dominican Republic ; Times: 1
+	Country: New Zealand ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-08 ; Times: 5
+	Date: 2018-02-03 ; Times: 8
+	Date: 2018-02-02 ; Times: 6
+	Date: 2018-02-01 ; Times: 39
+	Date: 2018-02-07 ; Times: 8
+	Date: 2018-02-06 ; Times: 8
+	Date: 2018-02-05 ; Times: 8
+	Date: 2018-02-21 ; Times: 7
+	Date: 2018-02-20 ; Times: 14
+	Date: 2018-02-23 ; Times: 5
+	Date: 2018-02-22 ; Times: 3
+	Date: 2018-02-27 ; Times: 11
+	Date: 2018-02-26 ; Times: 5
+	Date: 2018-02-28 ; Times: 18
+	Date: 2018-02-14 ; Times: 6
+	Date: 2018-02-15 ; Times: 8
+	Date: 2018-02-16 ; Times: 7
+	Date: 2018-02-17 ; Times: 2
+	Date: 2018-02-10 ; Times: 2
+	Date: 2018-02-11 ; Times: 1
+	Date: 2018-02-12 ; Times: 2
+	Date: 2018-02-19 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:5917" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;anderson&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "conepatus leuconotus" ; Times: 1
+	Query: "Lasiurus blossevillii vntype:specimen country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "little brown bat hastissue:1" ; Times: 1
+	Query: "county:&#34;Hill&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Megadontomys thomasi" ; Times: 1
+	Query: "D. novemcinctus Dasypus novemcinctus mappable:1" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;willacy&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "specificepithet:ega genus:Lasiurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "distance(location,geopoint(26.42121702,-98.911099544))&lt;20391" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;mason&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 3
+	Query: "Cervus nippon" ; Times: 22
+	Query: "catalognumber:13221 institutioncode:ASNHC" ; Times: 2
+	Query: "giraffe" ; Times: 2
+	Query: "catalognumber:1508" ; Times: 1
+	Query: "catalognumber:10050 &#34;peromyscus leucopus&#34;" ; Times: 1
+	Query: "Tonatia bidens" ; Times: 1
+	Query: "Oryx leucoryx " ; Times: 1
+	Query: "catalognumber:13300 institutioncode:ASNHC" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;presidio&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "little brown bat" ; Times: 1
+	Query: "Lasiurus blossevillii vntype:specimen mappable:1" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;Val Verde&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Aotus azarae" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinereoargenteus genus:Urocyon institutioncode:ASNHC" ; Times: 1
+	Query: "distance(location,geopoint(37.0321005105,-94.028136968))&lt;35289" ; Times: 2
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;fort bend&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "Loxodonta africana africana" ; Times: 3
+	Query: "catalognumber:13374 institutioncode:ASNHC" ; Times: 2
+	Query: "class:Mammalia county:&#34;Hill&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;Kinney&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Chiroderma salvini" ; Times: 1
+	Query: "distance(location,geopoint(26.219201413,-98.5266965236825))&lt;20217" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Kenedy&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;anderson&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;dimmit&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:zerda genus:Vulpes (zoo OR captive) institutioncode:ASNHC" ; Times: 1
+	Query: "catalognumber:434" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:notiosorex institutioncode:ASNHC" ; Times: 1
+	Query: "catalognumber:14911" ; Times: 1
+	Query: "Diceros bicornis" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Val Verde&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:6604" ; Times: 2
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "catalognumber:7902" ; Times: 1
+	Query: "catalognumber:4152" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "specificepithet:palustris genus:Sorex stateprovince:&#34;Montana&#34;" ; Times: 2
+	Query: "Cryptotis mayensis" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 2
+	Query: "Myocastor coypus mappable:1" ; Times: 3
+	Query: "catalognumber:447" ; Times: 1
+	Query: "13778" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Kinney&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:blossevillii genus:lasiurus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "lasiurus blossevillii" ; Times: 1
+	Query: "iptrecordid:&#34;ecef435f-9a90-4608-95db-019ecb370ab9&#34;" ; Times: 2
+	Query: "13773" ; Times: 1
+	Query: "vntype:specimen specificepithet:velox genus:Vulpes institutioncode:ASNHC" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;brewster&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "Dermanura gnoma " ; Times: 1
+	Query: "specificepithet:macrotis genus:Nyctinomops stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:bicornis genus:Diceros institutioncode:ASNHC" ; Times: 1
+	Query: "catalognumber:15136" ; Times: 1
+	Query: "Bassariscus" ; Times: 2
+	Query: "Megaoryzomys curioi " ; Times: 1
+	Query: "Tragelaphus imberbis" ; Times: 1
+	Query: "nyctinomops macrotis texas" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "distance(location,geopoint(26.110795247,-98.2710711635))&lt;13014" ; Times: 2
+	Query: "beatragus hunteri" ; Times: 6
+	Query: "vntype:specimen specificepithet:macrotis genus:Vulpes institutioncode:ASNHC" ; Times: 1
+	Query: "Dermanura cinerea " ; Times: 1
+	Query: "Platyrrhinus ismaeli " ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;Hidalgo&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;Montgomery&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 4
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;terrell&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulpes genus:Vulpes institutioncode:ASNHC" ; Times: 1
+	Query: "catalognumber:6020" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;Real&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Tragelaphus eurycerus" ; Times: 1
+	Query: "Ammotragus lervia mappable:1" ; Times: 3
+	Query: "specificepithet:imberbis genus:Tragelaphus preparations:Skull" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;duval&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;kenedy&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:zerda genus:Vulpes (zoo OR captive)" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;brewster&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "gbifdatasetid:f9772d3a-db34-4a33-baa0-7a016a970358" ; Times: 2
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;Kenedy&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "neofelis" ; Times: 2
+	Query: "catalognumber:13558 institutioncode:ASNHC" ; Times: 1
+	Query: "Bull frog" ; Times: 1
+	Query: "vntype:specimen specificepithet:zerda genus:Vulpes institutioncode:ASNHC" ; Times: 1
+	Query: "catalognumber:16045" ; Times: 1
+	Query: "distance(location,geopoint(44.161087015,-95.955358188))&lt;53644" ; Times: 4
+	Query: "catalognumber:2201" ; Times: 1
+	Query: "catalognumber:13829" ; Times: 1
+	Query: "catalognumber:15484" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 1
+	Query: "nyctinomops macrotis texas ASNHC" ; Times: 1
+	Query: "Nesoryzomys fernandinae " ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:arenarius genus:geomys year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "Hyena" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;kleberg&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 4
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;jeff davis&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Real&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:myocastor hastissue:1" ; Times: 2
+	Query: "Dermanura glauca " ; Times: 1
+	Query: "catalognumber:7780" ; Times: 1
+	Query: "vntype:specimen specificepithet:tragocamelus genus:Boselaphus preparations:Skull" ; Times: 1
+	Query: "institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:10378" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 133 (out of 1892 download events in this period)
+Total number of records downloaded: 41902
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 112
+	Country: Colombia ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 2
+	Date: 2018-02-15 ; Times: 2
+	Date: 2018-02-16 ; Times: 2
+	Date: 2018-02-22 ; Times: 2
+	Date: 2018-02-10 ; Times: 3
+	Date: 2018-02-11 ; Times: 2
+	Date: 2018-02-12 ; Times: 6
+	Date: 2018-02-13 ; Times: 3
+	Date: 2018-02-19 ; Times: 2
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-27 ; Times: 2
+	Date: 2018-02-02 ; Times: 2
+	Date: 2018-02-25 ; Times: 1
+	Date: 2018-02-01 ; Times: 89
+	Date: 2018-02-23 ; Times: 2
+	Date: 2018-02-08 ; Times: 2
+	Date: 2018-02-20 ; Times: 4
+	Date: 2018-02-05 ; Times: 1
+	Date: 2018-02-21 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "Pteronotus davyi" ; Times: 1
+	Query: "Lasiurus blossevillii vntype:specimen country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Peromyscus eremicus" ; Times: 1
+	Query: "Megadontomys thomasi" ; Times: 1
+	Query: "Onychomys torridus" ; Times: 1
+	Query: "Diphylla ecaudata" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Campeche&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 2
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Sturnira lilium" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Peromyscus crinitus" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Myoprocta acouchy" ; Times: 1
+	Query: "xerospermophilus spilosoma" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "Baiomys taylori" ; Times: 1
+	Query: "Cervus nippon" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus" ; Times: 1
+	Query: "Liomys salvini" ; Times: 1
+	Query: "Microtus pinetorum" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "genus:castor" ; Times: 1
+	Query: "Ochrotomys nuttalli" ; Times: 1
+	Query: "choloepus" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Chaetodipus hispidus" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "nyctinomops macrotis texas" ; Times: 1
+	Query: "Scalopus aquaticus" ; Times: 2
+	Query: "class:Mammalia county:&#34;Hill&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Artibeus jamaicensis" ; Times: 1
+	Query: "Phyllostomus hastatus" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "Peromyscus gossypinus" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 2
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Peromyscus californicus" ; Times: 1
+	Query: "Tonatia bidens" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus country:&#34;mexico&#34;" ; Times: 1
+	Query: "Saccopteryx bilineata" ; Times: 1
+	Query: "Octodon degus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "vntype:specimen (hylobates lar)" ; Times: 1
+	Query: "Notiosorex crawfordi" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "Cynomys ludovicianus" ; Times: 1
+	Query: "Cryptotis mayensis" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Artibeus concolor" ; Times: 1
+	Query: "Condylura cristata" ; Times: 1
+	Query: "Peromyscus truei" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "Lemmiscus curtatus" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "peromyscus gratus" ; Times: 1
+	Query: "buren" ; Times: 1
+	Query: "Dasyprocta leporina" ; Times: 1
+	Query: "specificepithet:macrotis genus:Nyctinomops stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Carollia perspicillata" ; Times: 1
+	Query: "Thomomys talpoides" ; Times: 1
+	Query: "Bassariscus" ; Times: 2
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "myrmecophaga" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "Peromyscus aztecus" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "Aotus azarae" ; Times: 1
+	Query: "Canis lupus" ; Times: 3
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "Artibeus lituratus" ; Times: 1
+	Query: "order:Chiroptera country:&#34;United States&#34;" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Reithrodontomys sumichrasti" ; Times: 1
+	Query: "Napaeozapus insignis" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "Pteronotus parnellii" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "neofelis" ; Times: 1
+	Query: "Microtus montanus" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "Peromyscus pectoralis" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Hylobates lar" ; Times: 1
+	Query: "Phyllostomus elongatus" ; Times: 2
+	Query: "Myotis keaysi" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Liomys irroratus" ; Times: 1
+	Query: "Sylvilagus audubonii" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 1
+	Query: "puma" ; Times: 2
+	Query: "orycteropus" ; Times: 1
+	Query: "Geomys pinetis" ; Times: 2
+	Query: "order:Rodentia class:Mammalia stateprovince:&#34;Chiapas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Mammalia institutioncode:ASNHC" ; Times: 2
+	Query: "Uroderma bilobatum" ; Times: 1
+	Query: "Peropteryx macrotis" ; Times: 1
+	Query: "Rhinophylla pumilio" ; Times: 1
+	Query: "Reithrodontomys humulis" ; Times: 1
+	Query: "Myodes gapperi" ; Times: 2
+
+
+End of report.
