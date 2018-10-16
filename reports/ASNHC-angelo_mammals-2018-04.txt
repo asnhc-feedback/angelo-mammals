@@ -1,0 +1,380 @@
+Report for Institution Code ASNHC, Resource angelo_mammals
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 427
+Number of records retrieved in searches: 2293
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 2
+	Country: United States ; Times: 409
+	Country: China ; Times: 2
+	Country: Paraguay ; Times: 4
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 1
+	Date: 2018-04-23 ; Times: 82
+	Date: 2018-04-22 ; Times: 4
+	Date: 2018-04-21 ; Times: 7
+	Date: 2018-04-20 ; Times: 2
+	Date: 2018-04-27 ; Times: 2
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-25 ; Times: 22
+	Date: 2018-04-24 ; Times: 88
+	Date: 2018-04-01 ; Times: 6
+	Date: 2018-04-03 ; Times: 18
+	Date: 2018-04-02 ; Times: 38
+	Date: 2018-04-05 ; Times: 31
+	Date: 2018-04-04 ; Times: 30
+	Date: 2018-04-07 ; Times: 1
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-09 ; Times: 10
+	Date: 2018-04-08 ; Times: 5
+	Date: 2018-04-16 ; Times: 9
+	Date: 2018-04-12 ; Times: 1
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-30 ; Times: 3
+	Date: 2018-04-17 ; Times: 9
+	Date: 2018-04-14 ; Times: 1
+	Date: 2018-04-15 ; Times: 1
+	Date: 2018-04-18 ; Times: 44
+	Date: 2018-04-19 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Orthogeomys specificepithet:hispidus mappable:1" ; Times: 1
+	Query: "catalognumber:14737 institutioncode:ASNHC" ; Times: 2
+	Query: "genus:Nesoryzomys specificepithet:narboroughi mappable:1" ; Times: 1
+	Query: "genus:Tamias specificepithet:ruficaudus mappable:1" ; Times: 2
+	Query: "catalognumber:11730 institutioncode:ASNHC" ; Times: 2
+	Query: "genus:Osgoodomys specificepithet:banderanus mappable:1" ; Times: 1
+	Query: "genus:Nesoryzomys specificepithet:swarthi mappable:1" ; Times: 1
+	Query: "catalognumber:13543 institutioncode:ASNHC" ; Times: 2
+	Query: "genus:Perimyotis month &gt;= 1 month &lt;= 2" ; Times: 1
+	Query: "catalognumber:13578 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:11733 institutioncode:ASNHC" ; Times: 2
+	Query: "4672 Dipodomys" ; Times: 1
+	Query: "specificepithet:gossypinus genus:Peromyscus" ; Times: 4
+	Query: "catalognumber:98 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:13536 institutioncode:ASNHC" ; Times: 4
+	Query: "genus:Dipodomys specificepithet:phillipsii mappable:1" ; Times: 1
+	Query: "catalognumber:6379 institutioncode:ASNHC" ; Times: 1
+	Query: "catalognumber:13546 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:9633 institutioncode:ASNHC" ; Times: 2
+	Query: "country:Ecuador scientificname:Molossus molossus " ; Times: 2
+	Query: "lasiurus blossevillii stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;Arizona&#34; month &gt;= 9 month &lt;= 12" ; Times: 1
+	Query: "catalognumber:11745 institutioncode:ASNHC" ; Times: 3
+	Query: "catalognumber:13586 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:13604 institutioncode:ASNHC" ; Times: 2
+	Query: "genus:Cryptotis specificepithet:goldmani mappable:1" ; Times: 1
+	Query: "family:Dasypodidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:Ototylomys specificepithet:phyllotis mappable:1" ; Times: 1
+	Query: "catalognumber:12928 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:13594 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:13589 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:4595 institutioncode:ASNHC" ; Times: 2
+	Query: "genus:Geomys specificepithet:personatus mappable:1" ; Times: 1
+	Query: "catalognumber:13606 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:13564 institutioncode:ASNHC" ; Times: 2
+	Query: "genus:Neotomodon specificepithet:alstoni mappable:1" ; Times: 1
+	Query: "catalognumber:13612 institutioncode:ASNHC" ; Times: 2
+	Query: "bobcat mappable:1" ; Times: 4
+	Query: "genus:Geomys specificepithet:texensis mappable:1" ; Times: 1
+	Query: "catalognumber:14882 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:13618 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:13573 institutioncode:ASNHC" ; Times: 2
+	Query: "genus:Reithrodontomys specificepithet:gracilis mappable:1" ; Times: 1
+	Query: "catalognumber:13588 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:13525 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:14592 institutioncode:ASNHC" ; Times: 2
+	Query: "lasionycteris month &gt;= 1 month &lt;= 2" ; Times: 1
+	Query: "catalognumber:13584 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:13613 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:12929 institutioncode:ASNHC" ; Times: 2
+	Query: "thomomys umbrinus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "catalognumber:12927 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:13535 institutioncode:ASNHC" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "catalognumber:13672 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:13574 institutioncode:ASNHC" ; Times: 2
+	Query: "Sorex veraepacis mappable:1" ; Times: 1
+	Query: "sigmodon ochrognathus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Spilogale specificepithet:gracilis mappable:1" ; Times: 2
+	Query: "catalognumber:13519 institutioncode:ASNHC" ; Times: 2
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;New Mexico&#34; month &gt;= 9 month &lt;= 12" ; Times: 1
+	Query: "catalognumber:11742 institutioncode:ASNHC" ; Times: 1
+	Query: "genus:Nasua specificepithet:narica mappable:1" ; Times: 1
+	Query: "specificepithet:astutus genus:Bassariscus year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "catalognumber:13542 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:13598 institutioncode:ASNHC" ; Times: 1
+	Query: "Conepatus leuconotus mappable:1" ; Times: 1
+	Query: "catalognumber:13600 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:13621 institutioncode:ASNHC" ; Times: 1
+	Query: "genus:Tolypeutes specificepithet:matacus mappable:1" ; Times: 2
+	Query: "Lasiurus blossevillii" ; Times: 2
+	Query: "Tolypeutes" ; Times: 3
+	Query: "bobcat" ; Times: 2
+	Query: "catalognumber:13601 institutioncode:ASNHC" ; Times: 2
+	Query: "genus:Proechimys specificepithet:guyannensis mappable:1" ; Times: 2
+	Query: "genus:Dipodomys specificepithet:compactus mappable:1" ; Times: 1
+	Query: "genus:Ammospermophilus specificepithet:interpres mappable:1" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:aquaticus mappable:1" ; Times: 2
+	Query: "Myotis leibii" ; Times: 2
+	Query: "catalognumber:13673 institutioncode:ASNHC" ; Times: 1
+	Query: "vampire" ; Times: 3
+	Query: "catalognumber:13579 institutioncode:ASNHC" ; Times: 2
+	Query: "sigmodon hispidus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Geomys specificepithet:attwateri mappable:1" ; Times: 1
+	Query: "genus:Tylomys specificepithet:nudicaudus mappable:1" ; Times: 2
+	Query: "catalognumber:12718 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:13567 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:13582 institutioncode:ASNHC" ; Times: 2
+	Query: "genus:Sigmodon specificepithet:ochrognathus mappable:1" ; Times: 2
+	Query: "genus:Peromyscus specificepithet:yucatanicus mappable:1" ; Times: 1
+	Query: "genus:Heteromys specificepithet:gaumeri mappable:1" ; Times: 2
+	Query: "catalognumber:13553 institutioncode:ASNHC" ; Times: 1
+	Query: "catalognumber:13587 institutioncode:ASNHC" ; Times: 2
+	Query: "country:Ecuador scientificname:Saccopteryx bilineata " ; Times: 1
+	Query: "catalognumber:13617 institutioncode:ASNHC" ; Times: 6
+	Query: "catalognumber:11746 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:13614 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:13608 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:13616 institutioncode:ASNHC" ; Times: 2
+	Query: "dipodomys spectabilis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "mephitis mephitis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "catalognumber:13585 institutioncode:ASNHC" ; Times: 2
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "13989" ; Times: 1
+	Query: "genus:Mephitis specificepithet:macroura mappable:1" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:obscurus mappable:1" ; Times: 2
+	Query: "catalognumber:13563 institutioncode:ASNHC" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:gymnotis mappable:1" ; Times: 1
+	Query: "specificepithet:virginiana genus:didelphis mappable:1 hastissue:1" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "genus:Marmosa specificepithet:mexicana mappable:1" ; Times: 1
+	Query: "catalognumber:13593 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:13527 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:13591 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:13581 institutioncode:ASNHC" ; Times: 2
+	Query: "genus:Didelphis specificepithet:marsupialis mappable:1" ; Times: 1
+	Query: "ASNHC 14145" ; Times: 1
+	Query: "catalognumber:11741 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:13521 institutioncode:ASNHC" ; Times: 2
+	Query: "genus:Reithrodontomys specificepithet:chrysopsis mappable:1" ; Times: 1
+	Query: "catalognumber:13655 institutioncode:ASNHC" ; Times: 2
+	Query: "genus:Reithrodontomys specificepithet:spectabilis mappable:1" ; Times: 1
+	Query: "catalognumber:13610 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:13605 institutioncode:ASNHC" ; Times: 2
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 1
+	Query: "catalognumber:13544 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:13520 institutioncode:ASNHC" ; Times: 2
+	Query: "tadarida brasiliensis stateprovince:Arizona mappable:1" ; Times: 3
+	Query: "specificepithet:cinereus genus:lasiurus continent:North America month &gt;= 1 month &lt;= 3" ; Times: 1
+	Query: "cryptotis mayensis" ; Times: 2
+	Query: "catalognumber:13580 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:13597 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:8284 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:11743 institutioncode:ASNHC" ; Times: 4
+	Query: "Mustela nigripes year&gt;=1990 year&lt;=2015 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "genus:Megadontomys specificepithet:thomasi mappable:1" ; Times: 1
+	Query: "genus:Geomys specificepithet:arenarius mappable:1" ; Times: 1
+	Query: "genus:Dipodomys specificepithet:elator mappable:1" ; Times: 1
+	Query: "genus:Geomys specificepithet:breviceps mappable:1" ; Times: 1
+	Query: "specificepithet:duvaucelii genus:Rucervus" ; Times: 1
+	Query: "genus:Tolypeutes family:Dasypodidae country:&#34;Paraguay&#34;" ; Times: 3
+	Query: "specificepithet:astutus genus:Bassariscus hastissue:1" ; Times: 1
+	Query: "specificepithet:Americana genus:Mazama mappable:1" ; Times: 1
+	Query: "catalognumber:13528 institutioncode:ASNHC" ; Times: 2
+	Query: "genus:Tamandua specificepithet:mexicana mappable:1" ; Times: 2
+	Query: "Tamandua mexicana mappable:1" ; Times: 3
+	Query: "specificepithet:nuttalli genus:Ochrotomys stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "bull frog" ; Times: 1
+	Query: "catalognumber:11734 institutioncode:ASNHC" ; Times: 3
+	Query: "genus:Reithrodontomys specificepithet:montanus mappable:1" ; Times: 1
+	Query: "genus:Bassariscus specificepithet:astutus mappable:1" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "catalognumber:13566 institutioncode:ASNHC" ; Times: 2
+	Query: "genus:Conepatus specificepithet:leuconotus mappable:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:zarhynchus mappable:1" ; Times: 1
+	Query: "catalognumber:13540 institutioncode:ASNHC" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2001 year &lt;= 2018" ; Times: 1
+	Query: "catalognumber:9637 institutioncode:ASNHC" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:11744 institutioncode:ASNHC" ; Times: 2
+	Query: "county:&#34;Titus&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:13545 institutioncode:ASNHC" ; Times: 2
+	Query: "specificepithet:noctivagans genus:lasionycteris stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Proechimys specificepithet:cuvieri mappable:1" ; Times: 2
+	Query: "pika" ; Times: 1
+	Query: "genus:Erethizon stateprovince:&#34;texas&#34;" ; Times: 5
+	Query: "genus:Cryptotis specificepithet:mayensis mappable:1" ; Times: 1
+	Query: "lasionycteris year &gt;= 1977 year &lt;= 2016 month &gt;= 1 month &lt;= 2" ; Times: 3
+	Query: "catalognumber:13620 institutioncode:ASNHC" ; Times: 1
+	Query: "catalognumber:11731 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:9696 institutioncode:ASNHC" ; Times: 6
+	Query: "genus:Sorex specificepithet:veraepacis mappable:1" ; Times: 2
+	Query: "genus:Sylvilagus specificepithet:robustus mappable:1" ; Times: 2
+	Query: "genus:Sylvilagus specificepithet:transitionalis mappable:1" ; Times: 2
+	Query: "catalognumber:13590 institutioncode:ASNHC" ; Times: 2
+	Query: "genus:Urocitellus specificepithet:richardsonii mappable:1" ; Times: 2
+	Query: "catalognumber:11813 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:13531 institutioncode:ASNHC" ; Times: 3
+	Query: "catalognumber:13622 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:13562 institutioncode:ASNHC" ; Times: 2
+	Query: "genus:Antilocapra specificepithet:americana mappable:1" ; Times: 1
+	Query: "mule deer" ; Times: 1
+	Query: "catalognumber:11812 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:238 institutioncode:ASNHC" ; Times: 2
+	Query: "country:Ecuador scientificname:Rhinophylla fischerae " ; Times: 1
+	Query: "catalognumber:13529 institutioncode:ASNHC" ; Times: 3
+	Query: "specificepithet:nippon genus:Cervus" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 1
+	Query: "catalognumber:13603 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:11732 institutioncode:ASNHC" ; Times: 2
+	Query: "genus:Ictidomys specificepithet:mexicanus mappable:1" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;Texas&#34; month &gt;= 9 month &lt;= 12" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:guatemalensis mappable:1" ; Times: 1
+	Query: "neofelis" ; Times: 1
+	Query: "sciurus aberti stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "catalognumber:13895 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:14879 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:613 institutioncode:ASNHC" ; Times: 2
+	Query: "specificepithet:velox genus:Vulpes year &gt;= 2001 year &lt;= 2018" ; Times: 1
+	Query: "genus:Nesoryzomys specificepithet:fernandinae mappable:1" ; Times: 1
+	Query: "ammospermophilus harrisii stateprovince:Arizona mappable:1" ; Times: 3
+	Query: "genus:Philander specificepithet:opossum mappable:1" ; Times: 1
+	Query: "Reithrodontomys gracilis mappable:1" ; Times: 1
+	Query: "specificepithet:noctivagans genus:lasionycteris continent:North America month &gt;= 1 month &lt;= 3" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "catalognumber:13609 institutioncode:ASNHC" ; Times: 2
+	Query: "genus:Dasypus specificepithet:novemcinctus mappable:1" ; Times: 1
+	Query: "Tragulus napu" ; Times: 1
+	Query: "catalognumber:13526 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:13541 institutioncode:ASNHC" ; Times: 2
+	Query: "Myotis septentrionalis mappable:1" ; Times: 1
+	Query: "catalognumber:13522 institutioncode:ASNHC" ; Times: 2
+	Query: "country:Ecuador scientificname:Artibeus obscurus " ; Times: 1
+	Query: "catalognumber:13532 institutioncode:ASNHC" ; Times: 2
+	Query: "Myotis keaysi" ; Times: 11
+	Query: "specificepithet:noctivagans genus:lasionycteris stateprovince:&#34;Texas&#34; continent:North America" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Ochrotomys hastissue:1" ; Times: 1
+	Query: "genus:Pecari specificepithet:tajacu mappable:1" ; Times: 1
+	Query: "genus:Mazama specificepithet:americana mappable:1" ; Times: 2
+	Query: "catalognumber:13607 institutioncode:ASNHC" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Orthogeomys hispidus mappable:1" ; Times: 1
+	Query: "genus:Nasua specificepithet:nasua mappable:1" ; Times: 1
+	Query: "catalognumber:13533 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:14652 institutioncode:ASNHC" ; Times: 2
+	Query: "specificepithet:subflavus genus:perimyotis stateprovince:&#34;Texas&#34; continent:North America" ; Times: 1
+	Query: "genus:Tamias specificepithet:cinereicollis mappable:1" ; Times: 2
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 2
+	Query: "catalognumber:13602 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:12932 institutioncode:ASNHC" ; Times: 1
+	Query: "genus:Urocitellus specificepithet:columbianus mappable:1" ; Times: 2
+	Query: "genus:Cryptotis hastissue:1" ; Times: 2
+	Query: "country:Ecuador scientificname:Nesoryzomys narboroughi " ; Times: 1
+	Query: "catalognumber:14591 institutioncode:ASNHC" ; Times: 4
+	Query: "genus:Peromyscus specificepithet:megalops mappable:1" ; Times: 1
+	Query: "catalognumber:14569 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:13599 institutioncode:ASNHC" ; Times: 2
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 1
+	Query: "catalognumber:12931 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:13611 institutioncode:ASNHC" ; Times: 2
+	Query: "genus:Sigmodon specificepithet:alleni mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 56 (out of 1359 download events in this period)
+Total number of records downloaded: 5857
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 1
+	Country: Finland ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 44
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 2
+	Date: 2018-04-13 ; Times: 2
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-02 ; Times: 2
+	Date: 2018-04-05 ; Times: 2
+	Date: 2018-04-04 ; Times: 2
+	Date: 2018-04-15 ; Times: 5
+	Date: 2018-04-09 ; Times: 6
+	Date: 2018-04-08 ; Times: 3
+	Date: 2018-04-18 ; Times: 2
+	Date: 2018-04-10 ; Times: 3
+	Date: 2018-04-16 ; Times: 6
+	Date: 2018-04-11 ; Times: 4
+	Date: 2018-04-17 ; Times: 1
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-23 ; Times: 1
+	Date: 2018-04-30 ; Times: 1
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-25 ; Times: 5
+	Date: 2018-04-24 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Rutilus rutilus" ; Times: 2
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;New Mexico&#34; month &gt;= 9 month &lt;= 12" ; Times: 1
+	Query: "distance(location,geopoint(63.87569,-149.21334))&lt;50000" ; Times: 1
+	Query: "genus:Perimyotis month &gt;= 1 month &lt;= 2" ; Times: 1
+	Query: "genus:mus continent:North America" ; Times: 1
+	Query: "virginia opossum" ; Times: 2
+	Query: "Tolypeutes" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;Texas&#34; month &gt;= 9 month &lt;= 12" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "sciurus aberti" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "genus:myotis family:vespertilionidae" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;Arizona&#34; month &gt;= 9 month &lt;= 12" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Campeche&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "distance(location,geopoint(33.37859,-97.78226))&lt;50000" ; Times: 1
+	Query: "specificepithet:hemionus genus:Odocoileus mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(38.89332,-78.14678))&lt;50000" ; Times: 1
+	Query: "specificepithet:Americana genus:Mazama mappable:1" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus" ; Times: 5
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 2
+	Query: "specificepithet:alces genus:Alces mappable:1" ; Times: 1
+	Query: "genus:Erethizon stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon country:&#34;Mexico&#34;" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "distance(location,geopoint(33.40123,-97.57))&lt;50000" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Cryptotis hastissue:1" ; Times: 1
+	Query: "bald eagle" ; Times: 1
+	Query: "specificepithet:noctivagans genus:lasionycteris stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "agouti paca" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "lasionycteris year &gt;= 1977 year &lt;= 2016 month &gt;= 1 month &lt;= 2" ; Times: 2
+	Query: "genus:Tapirus" ; Times: 1
+	Query: "Saguinus oedipus" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "specificepithet:noctivagans genus:lasionycteris stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "vntype:specimen family:Cervidae hastissue:1" ; Times: 1
+	Query: "order:Rodentia county:&#34;Kern&#34;" ; Times: 1
+	Query: "distance(location,geopoint(38.24833,-109.38827))&lt;50000" ; Times: 1
+
+
+End of report.
