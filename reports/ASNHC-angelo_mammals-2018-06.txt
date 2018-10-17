@@ -1,0 +1,220 @@
+Report for Institution Code ASNHC, Resource angelo_mammals
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 140
+Number of records retrieved in searches: 952
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 104
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 14
+	Country: Unknown ; Times: 1
+	Country: Finland ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 4
+	Country: Chile ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 13
+	Date: 2018-06-06 ; Times: 8
+	Date: 2018-06-05 ; Times: 4
+	Date: 2018-06-04 ; Times: 5
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-25 ; Times: 3
+	Date: 2018-06-27 ; Times: 5
+	Date: 2018-06-26 ; Times: 2
+	Date: 2018-06-21 ; Times: 3
+	Date: 2018-06-20 ; Times: 3
+	Date: 2018-06-23 ; Times: 2
+	Date: 2018-06-08 ; Times: 5
+	Date: 2018-06-22 ; Times: 6
+	Date: 2018-06-11 ; Times: 3
+	Date: 2018-06-12 ; Times: 11
+	Date: 2018-06-13 ; Times: 6
+	Date: 2018-06-14 ; Times: 6
+	Date: 2018-06-15 ; Times: 7
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-17 ; Times: 5
+	Date: 2018-06-18 ; Times: 13
+	Date: 2018-06-19 ; Times: 1
+	Date: 2018-06-29 ; Times: 9
+	Date: 2018-06-28 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:14387 institutioncode:ASNHC" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ursus year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "genus:Lemur" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis nigricans " ; Times: 1
+	Query: "specificepithet:leucodon genus:Neotoma hastissue:1" ; Times: 1
+	Query: "catalognumber:14738 institutioncode:ASNHC" ; Times: 2
+	Query: "specificepithet:leporinus genus:Noctilio country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:13568 institutioncode:ASNHC" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 2
+	Query: "stateprovince:&#34;oaxaca&#34; country:&#34;mexico&#34; institutioncode:ASNHC" ; Times: 1
+	Query: "genus:conepatus locality:junction catalognumber:13549 institutioncode:ASNHC" ; Times: 1
+	Query: "catalognumber:12506 institutioncode:ASNHC" ; Times: 4
+	Query: "catalognumber:13560 institutioncode:ASNHC" ; Times: 2
+	Query: "snow leopard" ; Times: 11
+	Query: "ocelot" ; Times: 2
+	Query: "country:&#34;mexico&#34; institutioncode:ASNHC" ; Times: 1
+	Query: "bobcat" ; Times: 2
+	Query: "skull vntype:specimen specificepithet:maritimus genus:Ursus year &gt;= 1990 year &lt;= 2018" ; Times: 2
+	Query: "country:Ecuador scientificname:Rhinophylla fischerae " ; Times: 1
+	Query: "catalognumber:14849 institutioncode:ASNHC" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "nilgai" ; Times: 2
+	Query: "catalognumber:14590 institutioncode:ASNHC" ; Times: 3
+	Query: "specificepithet:keaysi genus:Myotis hastissue:1" ; Times: 2
+	Query: "stateprovince:&#34;campeche&#34; country:&#34;mexico&#34; institutioncode:ASNHC" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 2
+	Query: "catalognumber:8752 institutioncode:ASNHC" ; Times: 2
+	Query: "vampire" ; Times: 5
+	Query: "country:Ecuador scientificname:Lonchorhina aurita " ; Times: 1
+	Query: "11605" ; Times: 1
+	Query: "silver-haired bat" ; Times: 1
+	Query: "Dinomys branickii" ; Times: 2
+	Query: "catalognumber:14593 institutioncode:ASNHC" ; Times: 2
+	Query: "bull frog" ; Times: 2
+	Query: "country:Ecuador scientificname:Artibeus obscurus " ; Times: 1
+	Query: "Lama guanicoe" ; Times: 1
+	Query: "catalognumber:14526 institutioncode:ASNHC" ; Times: 1
+	Query: "country:Ecuador scientificname:Saccopteryx bilineata " ; Times: 1
+	Query: "vntype:specimen specificepithet:subgutturosa genus:Gazella" ; Times: 1
+	Query: "locality:junction institutioncode:ASNHC" ; Times: 1
+	Query: "raun year &gt;= 1960 year &lt;= 1970" ; Times: 1
+	Query: "Mazama americana" ; Times: 1
+	Query: "genus:conepatus locality:junction institutioncode:ASNHC" ; Times: 1
+	Query: "giraffe" ; Times: 2
+	Query: "armadillo" ; Times: 1
+	Query: "scientificname:Choloepus hoffmanni " ; Times: 1
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 3
+	Query: "giraffa" ; Times: 2
+	Query: "family:Lemuridae institutioncode:ASNHC" ; Times: 6
+	Query: "Sylvilagus obscurus" ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys indefessus " ; Times: 1
+	Query: "spotted hyena" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 1
+	Query: "genus:neofelis" ; Times: 3
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "catalognumber:13551 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:13670 institutioncode:ASNHC" ; Times: 2
+	Query: "fennec fox" ; Times: 2
+	Query: "country:Ecuador scientificname:Artibeus planirostris " ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys narboroughi " ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys fernandinae " ; Times: 4
+	Query: "ASNHC 2139" ; Times: 1
+	Query: "dasypus novemcinctus mexico" ; Times: 2
+	Query: "Conepatus leuconotus" ; Times: 2
+	Query: "FN32915" ; Times: 2
+	Query: "wild boar" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "mazama americana" ; Times: 2
+	Query: "specificepithet:leporinus genus:Noctilio stateprovince:&#34;Campeche&#34; country:&#34;Mexico&#34;" ; Times: 3
+	Query: "country:Ecuador scientificname:Nesoryzomys swarthi " ; Times: 1
+	Query: "Giraffa camelopardalis camelopardalis" ; Times: 1
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "catalognumber:13548 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:14595 institutioncode:ASNHC" ; Times: 2
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 2
+	Query: "country:Ecuador scientificname:Chiroderma villosum " ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus ismaeli " ; Times: 3
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "black-tailed prairie dog" ; Times: 1
+	Query: "meerkat" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 72 (out of 1169 download events in this period)
+Total number of records downloaded: 1541
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 53
+	Country: Brazil ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Ecuador ; Times: 3
+	Country: Mexico ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-06 ; Times: 6
+	Date: 2018-06-05 ; Times: 9
+	Date: 2018-06-13 ; Times: 2
+	Date: 2018-06-07 ; Times: 16
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-04 ; Times: 5
+	Date: 2018-06-29 ; Times: 2
+	Date: 2018-06-15 ; Times: 1
+	Date: 2018-06-01 ; Times: 4
+	Date: 2018-06-17 ; Times: 3
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-19 ; Times: 3
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-08 ; Times: 11
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-09 ; Times: 1
+	Date: 2018-06-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sloth" ; Times: 4
+	Query: "specificepithet:leucodon genus:Neotoma hastissue:1" ; Times: 1
+	Query: "Geocapromys ingrahami" ; Times: 1
+	Query: "Myotis vivesi" ; Times: 1
+	Query: "tayassu pecari pecari" ; Times: 3
+	Query: "vntype:specimen specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "black bear" ; Times: 4
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+	Query: "African elephant" ; Times: 1
+	Query: "hyena" ; Times: 1
+	Query: "chihuahua" ; Times: 2
+	Query: "nilgai" ; Times: 5
+	Query: "Aplodontia rufa" ; Times: 2
+	Query: "red fox" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "african Elephant" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "grizzly bear" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "armadillo" ; Times: 1
+	Query: "flying squirrel" ; Times: 3
+	Query: "coyote" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "kangaroo rat" ; Times: 1
+	Query: "Myotis fortidens" ; Times: 1
+	Query: "bald eagle" ; Times: 5
+	Query: "fennec fox" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "Giraffa camelopardalis camelopardalis" ; Times: 1
+	Query: "dasypus novemcinctus mexico" ; Times: 1
+	Query: "dipodomys phillipsii" ; Times: 1
+	Query: "snow leopard" ; Times: 3
+	Query: "osgoodomys" ; Times: 1
+	Query: "Cavia aperea" ; Times: 1
+	Query: "Nyctinomops" ; Times: 1
+	Query: "Sigmodon alleni" ; Times: 1
+	Query: "alces alces" ; Times: 1
+	Query: "Bobcat" ; Times: 1
+	Query: "sugar glider" ; Times: 1
+	Query: "Microtus" ; Times: 1
+	Query: "Grizzly Bear" ; Times: 1
+	Query: "meerkat" ; Times: 1
+
+
+End of report.
