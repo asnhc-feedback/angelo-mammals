@@ -1,0 +1,260 @@
+Report for Institution Code ASNHC, Resource angelo_mammals
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 205
+Number of records retrieved in searches: 1063
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 6
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 1
+	Country: Turkey ; Times: 1
+	Country: India ; Times: 3
+	Country: United States ; Times: 122
+	Country: Mozambique ; Times: 4
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 52
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-26 ; Times: 5
+	Date: 2018-12-09 ; Times: 10
+	Date: 2018-12-06 ; Times: 14
+	Date: 2018-12-19 ; Times: 4
+	Date: 2018-12-18 ; Times: 2
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-30 ; Times: 1
+	Date: 2018-12-15 ; Times: 6
+	Date: 2018-12-14 ; Times: 8
+	Date: 2018-12-17 ; Times: 12
+	Date: 2018-12-16 ; Times: 2
+	Date: 2018-12-11 ; Times: 7
+	Date: 2018-12-10 ; Times: 2
+	Date: 2018-12-13 ; Times: 12
+	Date: 2018-12-12 ; Times: 8
+	Date: 2018-12-20 ; Times: 3
+	Date: 2018-12-22 ; Times: 3
+	Date: 2018-12-23 ; Times: 3
+	Date: 2018-12-24 ; Times: 1
+	Date: 2018-12-25 ; Times: 1
+	Date: 2018-12-08 ; Times: 20
+	Date: 2018-12-27 ; Times: 2
+	Date: 2018-12-28 ; Times: 2
+	Date: 2018-12-29 ; Times: 2
+	Date: 2018-12-04 ; Times: 18
+	Date: 2018-12-05 ; Times: 6
+	Date: 2018-12-02 ; Times: 35
+	Date: 2018-12-03 ; Times: 6
+	Date: 2018-12-01 ; Times: 5
+	Date: 2018-12-07 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Antilocapra americana hastissue:1" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:americanus genus:ursus family:ursidae stateprovince:&#34;Alaska&#34; (fairbanks) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(pronghorn) hastissue:1" ; Times: 2
+	Query: "panthera  tigris" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 1
+	Query: "specificepithet:Lupus genus:Canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Molossus molossus " ; Times: 2
+	Query: "tamandua mappable:1" ; Times: 2
+	Query: "Neofelis nebulosa" ; Times: 1
+	Query: "(Antilocapra americana) hastissue:1" ; Times: 1
+	Query: "family:Canidae institutioncode:ASNHC" ; Times: 1
+	Query: "(pronghorn) year &gt;= 1990 hastissue:1" ; Times: 1
+	Query: "catalognumber:11660" ; Times: 1
+	Query: "jaguarundi" ; Times: 2
+	Query: "Chrotopterus auritus" ; Times: 20
+	Query: "specificepithet:cinereoargenteus genus:urocyon family:Canidae stateprovince:&#34;texas&#34; (mason)" ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys indefessus " ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "dipodomys elator" ; Times: 4
+	Query: "vntype:specimen specificepithet:velox genus:Vulpes family:Canidae preparations:skull basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Platyrrhinus ismaeli" ; Times: 32
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "specificepithet:canadensis genus:Castor stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis nigricans " ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 1
+	Query: "tayassu tajacu mappable:1" ; Times: 1
+	Query: "Hippotragus niger	 100" ; Times: 1
+	Query: "Puma concolor mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Uroderma bilobatum " ; Times: 3
+	Query: "Geomys texensis" ; Times: 1
+	Query: "Mephitis mephitis hastissue:1" ; Times: 1
+	Query: "specificepithet:blossevillii genus:lasiurus" ; Times: 1
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys fernandinae " ; Times: 2
+	Query: "specificepithet:elator genus:dipodomys" ; Times: 1
+	Query: "mazama americana" ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys swarthi " ; Times: 4
+	Query: "country:Ecuador scientificname:Lonchophylla robusta " ; Times: 1
+	Query: "genus:notiosorex country:&#34;mexico&#34;" ; Times: 1
+	Query: "Myotis elegans" ; Times: 2
+	Query: "country:Ecuador scientificname:Platyrrhinus ismaeli " ; Times: 1
+	Query: "catalognumber:12139" ; Times: 1
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:urocyon family:Canidae stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 3
+	Query: "choeronycteris vntype:specimen hastissue:1" ; Times: 5
+	Query: "cryptotis mayensis" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhinophylla fischerae " ; Times: 3
+	Query: "(vulpes vulpes OR red fox) hastissue:1" ; Times: 1
+	Query: "sylvilagus obscurus" ; Times: 15
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 3
+	Query: "genus:Cryptotis hastissue:1" ; Times: 4
+	Query: "country:Ecuador scientificname:Saccopteryx bilineata " ; Times: 1
+	Query: "Aardvark" ; Times: 3
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Didelphis marsupialis mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus planirostris " ; Times: 2
+	Query: "country:Ecuador scientificname:Megaoryzomys curioi " ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes family:Canidae stateprovince:&#34;texas&#34; (Lubbock)" ; Times: 1
+	Query: "Alcelaphus buselaphus	 100" ; Times: 1
+	Query: "country:Ecuador scientificname:Lonchorhina aurita " ; Times: 3
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 6
+	Query: "Procyon lotor hastissue:1" ; Times: 2
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "neofelis" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "hastissue:1 Procyon lotor" ; Times: 4
+	Query: "country:Ecuador scientificname:Artibeus obscurus " ; Times: 2
+	Query: "ASNHC 8328" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 1
+	Query: "Tragelaphus strepsiceros	 100" ; Times: 1
+	Query: "ASNHC 8322" ; Times: 1
+	Query: "ASNHC 8323" ; Times: 2
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "specificepithet:intermedius genus:Lasiurus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "12281" ; Times: 1
+	Query: "country:Ecuador scientificname:Micronycteris megalotis " ; Times: 4
+	Query: "country:Ecuador scientificname:Myotis riparius " ; Times: 4
+	Query: "genus:Tonatia" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira oporaphilum " ; Times: 3
+	Query: "specificepithet:cinereoargenteus genus:urocyon family:Canidae county:&#34;Terrell&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys narboroughi " ; Times: 1
+	Query: "Kobus ellipsiprymnus	 100" ; Times: 1
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 1
+	Query: "felis margarita" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 90 (out of 809 download events in this period)
+Total number of records downloaded: 10774
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 53
+	Country: India ; Times: 8
+	Country: France ; Times: 1
+	Country: United States ; Times: 20
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-09 ; Times: 29
+	Date: 2018-12-04 ; Times: 3
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-30 ; Times: 1
+	Date: 2018-12-03 ; Times: 4
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-22 ; Times: 4
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-18 ; Times: 5
+	Date: 2018-12-08 ; Times: 3
+	Date: 2018-12-27 ; Times: 1
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-07 ; Times: 9
+	Date: 2018-12-17 ; Times: 1
+	Date: 2018-12-05 ; Times: 1
+	Date: 2018-12-11 ; Times: 5
+	Date: 2018-12-10 ; Times: 20
+
+List of queries that retrieved data from the resource: 
+	Query: "Eumops auripendulus" ; Times: 1
+	Query: "Chaetodipus eremicus" ; Times: 1
+	Query: "ototylomys phyllotis" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Molossus molossus" ; Times: 1
+	Query: "Heteromys desmarestianus" ; Times: 1
+	Query: "Lasiurus ega" ; Times: 1
+	Query: "uroderma bilobatum" ; Times: 1
+	Query: "noctilio leporinus" ; Times: 1
+	Query: "rhynchonycteris naso" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "oryzomys melanotis" ; Times: 1
+	Query: "gray bat" ; Times: 1
+	Query: "peropteryx macrotis" ; Times: 1
+	Query: "felis margarita" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "felis silvestris" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 4
+	Query: "Mustela frenata" ; Times: 1
+	Query: "specificepithet:Lupus genus:Canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "peromyscus leucopus" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 1
+	Query: "pteronotus davyi" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "pteronotus parnellii" ; Times: 1
+	Query: "Eptesicus furinalis" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "hastissue:1 Procyon lotor" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "trachops cirrhosus" ; Times: 1
+	Query: "nyctinomops laticaudatus" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Loxodonta africana vntype:specimen" ; Times: 1
+	Query: "saccopteryx bilineata" ; Times: 1
+	Query: "platyrrhinus helleri" ; Times: 1
+	Query: "Chaetodipus formosus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Myotis nigricans" ; Times: 1
+	Query: "diphylla ecaudata" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 2
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "Platyrrhinus helleri" ; Times: 1
+	Query: "Lasiurus intermedius" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Dipodomys ordii" ; Times: 2
+	Query: "carollia perspicillata" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "Syncerus caffer vntype:specimen" ; Times: 1
+	Query: "sturnira lilium" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "Heteromys gaumeri" ; Times: 1
+	Query: "mazama americana" ; Times: 1
+	Query: "oligoryzomys fulvescens" ; Times: 1
+	Query: "Panthera leo vntype:specimen" ; Times: 1
+	Query: "specificepithet:elator genus:dipodomys" ; Times: 1
+	Query: "genus:Sciurus hastissue:1" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "sylvilagus floridanus" ; Times: 1
+	Query: "country:&#34;Mexico&#34; continent:America" ; Times: 2
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "potos flavus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus" ; Times: 1
+	Query: "Platyrrhinus ismaeli" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "Chaetodipus hispidus" ; Times: 2
+
+
+End of report.
