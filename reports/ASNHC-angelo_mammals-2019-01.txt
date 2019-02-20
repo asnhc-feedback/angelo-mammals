@@ -1,0 +1,266 @@
+Report for Institution Code ASNHC, Resource angelo_mammals
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 279
+Number of records retrieved in searches: 1849
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 255
+	Country: Netherlands ; Times: 4
+	Country: Mexico ; Times: 4
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Ecuador ; Times: 5
+	Country: Colombia ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 21
+	Date: 2019-01-23 ; Times: 15
+	Date: 2019-01-26 ; Times: 1
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-19 ; Times: 3
+	Date: 2019-01-14 ; Times: 17
+	Date: 2019-01-15 ; Times: 14
+	Date: 2019-01-30 ; Times: 24
+	Date: 2019-01-17 ; Times: 13
+	Date: 2019-01-10 ; Times: 6
+	Date: 2019-01-11 ; Times: 26
+	Date: 2019-01-12 ; Times: 2
+	Date: 2019-01-13 ; Times: 2
+	Date: 2019-01-03 ; Times: 12
+	Date: 2019-01-02 ; Times: 2
+	Date: 2019-01-29 ; Times: 24
+	Date: 2019-01-28 ; Times: 4
+	Date: 2019-01-07 ; Times: 5
+	Date: 2019-01-06 ; Times: 4
+	Date: 2019-01-05 ; Times: 9
+	Date: 2019-01-04 ; Times: 7
+	Date: 2019-01-21 ; Times: 6
+	Date: 2019-01-20 ; Times: 13
+	Date: 2019-01-09 ; Times: 3
+	Date: 2019-01-22 ; Times: 12
+	Date: 2019-01-25 ; Times: 9
+	Date: 2019-01-24 ; Times: 7
+	Date: 2019-01-27 ; Times: 1
+	Date: 2019-01-08 ; Times: 8
+	Date: 2019-01-16 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia county:&#34;cherokee&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;trinity&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;san jacinto&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "nine-banded armadillo" ; Times: 1
+	Query: "specificepithet:hispidus genus:sigmodon stateprovince:&#34;chihuahua&#34; country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:riparius genus:Myotis hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:ototylomys stateprovince:&#34;chiapas&#34;" ; Times: 1
+	Query: "(&#34;Dasypus Novemcinctus&#34; &#34;Nine-banded Armadillo&#34;)" ; Times: 4
+	Query: "15284" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:ASNHC" ; Times: 1
+	Query: "&#34;ailurus fulgens&#34;" ; Times: 2
+	Query: "Megadontomys thomasi" ; Times: 3
+	Query: "country:Ecuador scientificname:Molossus molossus " ; Times: 7
+	Query: "specificepithet:umbrinus genus:tamias institutioncode:ASNHC" ; Times: 2
+	Query: "Leptonycteris nivalis" ; Times: 2
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 53
+	Query: "class:Mammalia county:&#34;beauregard&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys indefessus " ; Times: 7
+	Query: "class:Mammalia county:&#34;Hardin&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Cervus nippon" ; Times: 1
+	Query: "specificepithet:ruficaudus genus:tamias institutioncode:ASNHC" ; Times: 1
+	Query: "15059" ; Times: 1
+	Query: "&#34;Dasypus&#34; &#34;Nine Banded Armadillo&#34;" ; Times: 1
+	Query: "m genus:Micronycteris country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:lepus stateprovince:&#34;texas&#34;" ; Times: 5
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "Mule Deer" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis nigricans " ; Times: 2
+	Query: "Oryx" ; Times: 2
+	Query: "15285" ; Times: 1
+	Query: "nine banded armadillo" ; Times: 3
+	Query: "specificepithet:americanus genus:lepus stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Rhynchocyon petersi" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "13917" ; Times: 1
+	Query: "Chiroderma salvini" ; Times: 4
+	Query: "genus:Lasiurus stateprovince:&#34;Louisiana&#34;" ; Times: 3
+	Query: "specificepithet:striatus genus:tamias institutioncode:ASNHC" ; Times: 1
+	Query: "recordedby:Marisol" ; Times: 1
+	Query: "vampire" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:ASNHC" ; Times: 1
+	Query: "stateprovince:&#34;Ohio&#34; specificepithet:erminea genus:mustela year &gt;= 1890 year &lt;= 2019" ; Times: 1
+	Query: "country:Ecuador scientificname:Uroderma bilobatum " ; Times: 3
+	Query: "Equus zebra zebra" ; Times: 2
+	Query: "(Ailurus fulgens)" ; Times: 1
+	Query: "catalognumber:11956" ; Times: 3
+	Query: "Nine-banded Armadillo" ; Times: 1
+	Query: "stateprovince:&#34;ohio&#34; genus:mustela year &gt;= 1900 year &lt;= 2018" ; Times: 1
+	Query: "genus:Panthera hastissue:1" ; Times: 1
+	Query: "specificepithet:parva genus:Cryptotis hastissue:1" ; Times: 1
+	Query: "Diceros bicornis" ; Times: 1
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys fernandinae " ; Times: 3
+	Query: "specificepithet:guanicoe genus:lama" ; Times: 2
+	Query: "stateprovince:&#34;Ohio&#34; genus:mustela year &gt;= 1900 year &lt;= 2018" ; Times: 1
+	Query: "country:Ecuador scientificname:Lonchophylla robusta " ; Times: 1
+	Query: "specificepithet:zarhynchus genus:Peromyscus institutioncode:ASNHC hastissue:1" ; Times: 1
+	Query: "Nine banded Armadillo dasypus novemcinctus" ; Times: 2
+	Query: "Myrmecophaga tridactyla" ; Times: 4
+	Query: "country:Ecuador scientificname:Platyrrhinus ismaeli " ; Times: 3
+	Query: "country:Ecuador scientificname:Micronycteris megalotis " ; Times: 5
+	Query: "Oryx leucoryx" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 2
+	Query: "13877" ; Times: 1
+	Query: "class:Mammalia county:&#34;angelina&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;houston&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "11225" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhinophylla fischerae " ; Times: 2
+	Query: "sylvilagus obscurus" ; Times: 4
+	Query: "oryx leucoryx" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 2
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 3
+	Query: "class:Mammalia county:&#34;montgomery&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Liberty&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Giraffa" ; Times: 1
+	Query: "dasypus and nine banded armadillo" ; Times: 1
+	Query: "myotis volans stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Mimon" ; Times: 1
+	Query: "specificepithet:cinereicollis genus:tamias institutioncode:ASNHC" ; Times: 1
+	Query: "specificepithet:senex genus:tamias institutioncode:ASNHC" ; Times: 1
+	Query: "armadillo" ; Times: 3
+	Query: "genus:peromyscus stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus planirostris " ; Times: 1
+	Query: "elephant shrew" ; Times: 4
+	Query: "class:Mammalia county:&#34;vernon&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Megaoryzomys curioi " ; Times: 4
+	Query: "lasiurus xanthinus" ; Times: 5
+	Query: "specificepithet:keaysi genus:Myotis hastissue:1" ; Times: 1
+	Query: "specificepithet:quadrivittatus genus:tamias institutioncode:ASNHC" ; Times: 1
+	Query: "class:Mammalia county:&#34;anderson&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:blossevillii genus:Lasiurus" ; Times: 1
+	Query: "specificepithet:townsendii genus:Corynorhinus year &gt;= 2010 year &lt;= 2019" ; Times: 2
+	Query: "country:Ecuador scientificname:Lonchorhina aurita " ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 3
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 5
+	Query: "genus:sigmodon stateprovince:&#34;chihuahua&#34; country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 3
+	Query: "class:Mammalia county:&#34;sabine&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "platyrrhinus ismaeli" ; Times: 1
+	Query: "(Giraffa camelopardalis)" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; genus:liomys year &gt;= 1995 year &lt;= 2015" ; Times: 3
+	Query: "country:Ecuador scientificname:Artibeus obscurus " ; Times: 1
+	Query: "(&#34;ailurus fulgens&#34;)" ; Times: 1
+	Query: "(&#34;Nine-banded armadillo&#34;)" ; Times: 1
+	Query: "Choloepus didactylus" ; Times: 2
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:arenarius genus:geomys year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "(&#34;Nine-banded armadillo&#34; &#34;Dasypus Novemcinctus&#34;)" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 11
+	Query: "country:Ecuador scientificname:Myotis riparius " ; Times: 3
+	Query: "specificepithet:amoenus genus:tamias institutioncode:ASNHC" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira oporaphilum " ; Times: 4
+	Query: "country:Ecuador scientificname:Nesoryzomys narboroughi " ; Times: 2
+	Query: "specificepithet:zarhynchus genus:Peromyscus institutioncode:ASNHC" ; Times: 1
+	Query: "class:Mammalia county:&#34;nacogdoches&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 3
+	Query: "country:Ecuador scientificname:Chiroderma villosum " ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 57 (out of 962 download events in this period)
+Total number of records downloaded: 872
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 1
+	Country: United States ; Times: 40
+	Country: Ecuador ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 4
+	Date: 2019-01-02 ; Times: 3
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-07 ; Times: 3
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-16 ; Times: 3
+	Date: 2019-01-17 ; Times: 1
+	Date: 2019-01-10 ; Times: 2
+	Date: 2019-01-11 ; Times: 17
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-29 ; Times: 3
+	Date: 2019-01-31 ; Times: 5
+	Date: 2019-01-30 ; Times: 8
+	Date: 2019-01-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia county:&#34;cherokee&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;trinity&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "marmosa" ; Times: 1
+	Query: "class:Mammalia county:&#34;san jacinto&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;anderson&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;angelina&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "tayassu pecari" ; Times: 1
+	Query: "Myotis californicus year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "class:Mammalia county:&#34;houston&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "class:Mammalia county:&#34;montgomery&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;sabine&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Chiroderma salvini" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus stateprovince:&#34;louisiana&#34;" ; Times: 3
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "stateprovince:&#34;Ohio&#34; specificepithet:erminea genus:mustela year &gt;= 1890 year &lt;= 2019" ; Times: 1
+	Query: "class:Mammalia county:&#34;tyler&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Liberty&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "specificepithet:cinereus genus:sorex stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "hastissue:1 peromyscus boylii" ; Times: 1
+	Query: "Neotoma mexicana" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "Mimon" ; Times: 1
+	Query: "genus:Lasiurus stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "vntype:specimen genus:Choeronycteris family:Phyllostomidae order:Chiroptera class:Mammalia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "peromyscus californicus" ; Times: 1
+	Query: "&#34;Caracal caracal&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;beauregard&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "stateprovince:&#34;ohio&#34; genus:mustela year &gt;= 1900 year &lt;= 2018" ; Times: 1
+	Query: "flying squirrel" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "class:Mammalia county:&#34;harris&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "class:Mammalia county:&#34;Hardin&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:Dipodomys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "specificepithet:lateralis genus:callospermophilus" ; Times: 1
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "Corynorhinus townsendii year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "class:Mammalia county:&#34;vernon&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "class:Mammalia county:&#34;nacogdoches&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:Sciurus hastissue:1" ; Times: 2
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "Minnesota Blarina" ; Times: 2
+	Query: "specificepithet:subflavus genus:Perimyotis mappable:1 year&gt;=1948 year&lt;=2019" ; Times: 1
+
+
+End of report.
