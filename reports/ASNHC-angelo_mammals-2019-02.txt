@@ -1,0 +1,202 @@
+Report for Institution Code ASNHC, Resource angelo_mammals
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 161
+Number of records retrieved in searches: 1428
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 132
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 3
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 8
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-22 ; Times: 11
+	Date: 2019-02-23 ; Times: 4
+	Date: 2019-02-11 ; Times: 4
+	Date: 2019-02-10 ; Times: 5
+	Date: 2019-02-13 ; Times: 20
+	Date: 2019-02-12 ; Times: 15
+	Date: 2019-02-15 ; Times: 1
+	Date: 2019-02-14 ; Times: 2
+	Date: 2019-02-17 ; Times: 4
+	Date: 2019-02-16 ; Times: 6
+	Date: 2019-02-19 ; Times: 2
+	Date: 2019-02-18 ; Times: 11
+	Date: 2019-02-02 ; Times: 3
+	Date: 2019-02-03 ; Times: 10
+	Date: 2019-02-26 ; Times: 6
+	Date: 2019-02-01 ; Times: 4
+	Date: 2019-02-20 ; Times: 2
+	Date: 2019-02-07 ; Times: 6
+	Date: 2019-02-04 ; Times: 7
+	Date: 2019-02-05 ; Times: 3
+	Date: 2019-02-08 ; Times: 1
+	Date: 2019-02-09 ; Times: 7
+	Date: 2019-02-28 ; Times: 4
+	Date: 2019-02-25 ; Times: 6
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-21 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia county:&#34;Taylor&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "14262" ; Times: 1
+	Query: "class:Mammalia county:&#34;Coleman&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Molossus molossus " ; Times: 2
+	Query: "recordedby:Joel Brant" ; Times: 3
+	Query: "myotis ciliolabrum hastissue:1" ; Times: 4
+	Query: "Neofelis nebulosa" ; Times: 1
+	Query: "class:Mammalia county:&#34;Jones&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Prionailurus viverrinus" ; Times: 2
+	Query: "class:Mammalia county:&#34;Nolan&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "tricolor bat" ; Times: 2
+	Query: "order:Chiroptera stateprovince:&#34;Missouri&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Dipodomys elator" ; Times: 1
+	Query: "giraffe" ; Times: 2
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys indefessus " ; Times: 1
+	Query: "specificepithet:astutus genus:bassariscus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:texensis genus:geomys stateprovince:&#34;texas&#34; hastissue:1" ; Times: 1
+	Query: "class:Mammalia county:&#34;Runnels&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "sylvilagus floridanus virginia" ; Times: 1
+	Query: "Microcebus" ; Times: 2
+	Query: "country:Ecuador scientificname:Artibeus obscurus " ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "snowshoe hare" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis nigricans " ; Times: 2
+	Query: "Tolypeutes" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 2
+	Query: "class:mammalia county:&#34;Clay&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:castanops stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 17
+	Query: "country:Ecuador scientificname:Uroderma bilobatum " ; Times: 1
+	Query: "specificepithet:nivalis genus:Leptonycteris institutioncode:ASNHC" ; Times: 1
+	Query: "class:Mammalia county:&#34;Callahan&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:pecari stateprovince:&#34;texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:blossevillii genus:Lasiurus" ; Times: 2
+	Query: "country:Ecuador scientificname:Nesoryzomys swarthi " ; Times: 2
+	Query: "country:Ecuador scientificname:Lonchophylla robusta " ; Times: 2
+	Query: "genus:notiosorex country:&#34;mexico&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus ismaeli " ; Times: 1
+	Query: "class:Mammalia county:&#34;Coke&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Sylvilagus obscurus" ; Times: 2
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 2
+	Query: "Oryx leucoryx" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 5
+	Query: "specificepithet:noctivagans genus:Lasionycteris stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "lasiurus blossevillii" ; Times: 1
+	Query: "pronghorn" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhinophylla fischerae " ; Times: 2
+	Query: "class:Mammalia county:&#34;Fisher&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:1688" ; Times: 2
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 7
+	Query: "sylvilagus obscurus west virginia" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; (crane)" ; Times: 2
+	Query: "catalognumber:1700" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "genus:Geomys county:&#34;Mason&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:frenata genus:Mustela institutioncode:ASNHC" ; Times: 1
+	Query: "catalognumber:15144" ; Times: 1
+	Query: "Sylvilagus obscurus west virginia" ; Times: 2
+	Query: "country:Ecuador scientificname:Artibeus planirostris " ; Times: 5
+	Query: "Conepatus leuconotus" ; Times: 5
+	Query: "nycticebus" ; Times: 1
+	Query: "country:Ecuador scientificname:Megaoryzomys curioi " ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus county:&#34;Uintah&#34; stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "black-tailed prairie dog" ; Times: 1
+	Query: "country:Ecuador scientificname:Lonchorhina aurita " ; Times: 5
+	Query: "Sorex longirostris" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "platyrrhinus ismaeli" ; Times: 8
+	Query: "class:Mammalia county:&#34;Taylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "sylvilagus obscurus &#34;west virginia&#34;" ; Times: 1
+	Query: "fishing cat" ; Times: 3
+	Query: "swift fox" ; Times: 1
+	Query: "specificepithet:texensis genus:geomys stateprovince:&#34;texas&#34;" ; Times: 3
+	Query: "Dipodomys compactus" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "Myotis californicus hastissue:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Micronycteris megalotis " ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis riparius " ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira oporaphilum " ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys narboroughi " ; Times: 1
+	Query: "13701" ; Times: 1
+	Query: "institutioncode:ASNHC" ; Times: 1
+	Query: "locality:90 county:&#34;kinney&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 1
+	Query: "country:Ecuador scientificname:Chiroderma villosum " ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 1227 download events in this period)
+Total number of records downloaded: 1643
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Brazil ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-04 ; Times: 1
+	Date: 2019-02-13 ; Times: 4
+	Date: 2019-02-22 ; Times: 3
+	Date: 2019-02-25 ; Times: 4
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-20 ; Times: 1
+	Date: 2019-02-14 ; Times: 6
+	Date: 2019-02-17 ; Times: 2
+	Date: 2019-02-18 ; Times: 1
+	Date: 2019-02-19 ; Times: 3
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-28 ; Times: 2
+	Date: 2019-02-01 ; Times: 2
+	Date: 2019-02-21 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Vulpes zerda" ; Times: 1
+	Query: "Heteromys" ; Times: 1
+	Query: "class:Mammalia county:&#34;Taylor&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "class:mammalia county:&#34;Clay&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Mammalia county:&#34;Fisher&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Chaetodipus county:&#34;Presidio&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Neofelis nebulosa" ; Times: 1
+	Query: "class:Mammalia county:&#34;Jones&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Prionailurus viverrinus" ; Times: 2
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "class:Mammalia county:&#34;Nolan&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "porcupine" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Dipodomys compactus" ; Times: 1
+	Query: "genus:Geomys county:&#34;Mason&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 6
+	Query: "micoureus" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:ASNHC" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Mammalia county:&#34;Coleman&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Callahan&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Vulpes velox" ; Times: 1
+	Query: "class:Mammalia county:&#34;Runnels&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "class:Mammalia county:&#34;Coke&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+
+
+End of report.
