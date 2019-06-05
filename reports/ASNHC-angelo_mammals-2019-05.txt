@@ -1,0 +1,226 @@
+Report for Institution Code ASNHC, Resource angelo_mammals
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 184
+Number of records retrieved in searches: 1945
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 30
+	Country: Chile ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 123
+	Country: Peru ; Times: 5
+	Country: Belgium ; Times: 1
+	Country: Colombia ; Times: 14
+	Country: Russia ; Times: 2
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 17
+	Date: 2019-05-31 ; Times: 1
+	Date: 2019-05-09 ; Times: 2
+	Date: 2019-05-08 ; Times: 3
+	Date: 2019-05-07 ; Times: 9
+	Date: 2019-05-06 ; Times: 13
+	Date: 2019-05-05 ; Times: 8
+	Date: 2019-05-04 ; Times: 5
+	Date: 2019-05-02 ; Times: 8
+	Date: 2019-05-01 ; Times: 7
+	Date: 2019-05-25 ; Times: 2
+	Date: 2019-05-24 ; Times: 2
+	Date: 2019-05-27 ; Times: 6
+	Date: 2019-05-26 ; Times: 20
+	Date: 2019-05-21 ; Times: 24
+	Date: 2019-05-20 ; Times: 10
+	Date: 2019-05-23 ; Times: 2
+	Date: 2019-05-22 ; Times: 6
+	Date: 2019-05-29 ; Times: 2
+	Date: 2019-05-28 ; Times: 2
+	Date: 2019-05-19 ; Times: 3
+	Date: 2019-05-10 ; Times: 2
+	Date: 2019-05-12 ; Times: 4
+	Date: 2019-05-13 ; Times: 1
+	Date: 2019-05-14 ; Times: 13
+	Date: 2019-05-15 ; Times: 2
+	Date: 2019-05-16 ; Times: 2
+	Date: 2019-05-17 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Peromyscus catalognumber:5585 institutioncode:ASNHC" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 4
+	Query: "specificepithet:columbianus genus:Urocitellus" ; Times: 1
+	Query: "country:Ecuador scientificname:Molossus molossus " ; Times: 3
+	Query: "silver-haired bat" ; Times: 1
+	Query: "institutioncode:asnhc" ; Times: 1
+	Query: "Mimon bennettii mappable:1" ; Times: 1
+	Query: "genus:Peromyscus catalognumber:9808 institutioncode:ASNHC" ; Times: 1
+	Query: "genus:Peromyscus catalognumber:11014 institutioncode:ASNHC" ; Times: 1
+	Query: "Diphylla ecaudata mappable:1" ; Times: 1
+	Query: "county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34; institutioncode:ASNHC" ; Times: 2
+	Query: "Panthera onca" ; Times: 2
+	Query: "genus:Peromyscus catalognumber:5582 institutioncode:ASNHC" ; Times: 2
+	Query: "country:Ecuador scientificname:Nesoryzomys indefessus " ; Times: 12
+	Query: "Lonchorhina aurita mappable:1" ; Times: 1
+	Query: "lama guanicoe" ; Times: 5
+	Query: "Sturnira tildae mappable:1" ; Times: 1
+	Query: "genus:Peromyscus catalognumber:5584 institutioncode:ASNHC" ; Times: 2
+	Query: "dipodomys elator" ; Times: 1
+	Query: "Platyrrhinus ismaeli" ; Times: 1
+	Query: "specificepithet:catta genus:lemur preparations:skeleton" ; Times: 1
+	Query: "Nesoryzomys fernandinae" ; Times: 1
+	Query: "genus:Bettongia preparations:skeleton" ; Times: 1
+	Query: "Nesoryzomys swarthi" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 2
+	Query: "Nyctinomops macrotis mappable:1" ; Times: 1
+	Query: "genus:Peromyscus catalognumber:5581 institutioncode:ASNHC" ; Times: 1
+	Query: "specificepithet:flavus genus:Perognathus class:Mammalia stateprovince:&#34;Texas&#34; institutioncode:ASNHC" ; Times: 1
+	Query: "myotis fortidens country:&#34;mexico&#34;" ; Times: 1
+	Query: "vampire" ; Times: 2
+	Query: "Eumops perotis mappable:1" ; Times: 1
+	Query: "year &gt;= 1918 year &lt;= 1975 institutioncode:ASNHC" ; Times: 1
+	Query: "genus:Peromyscus catalognumber:10730 institutioncode:ASNHC" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes class:Mammalia stateprovince:&#34;Texas&#34; institutioncode:ASNHC" ; Times: 1
+	Query: "Tonatia bidens" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes year &gt;= 1918 year &lt;= 1975 institutioncode:ASNHC" ; Times: 1
+	Query: "specificepithet:merriami genus:Perognathus class:Mammalia stateprovince:&#34;Texas&#34; institutioncode:ASNHC" ; Times: 1
+	Query: "Sylvilagus floridanus west virginia" ; Times: 1
+	Query: "catalognumber:686 institutioncode:ASNHC" ; Times: 1
+	Query: "genus:varecia preparations:skeleton" ; Times: 1
+	Query: "tonatia" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys swarthi " ; Times: 1
+	Query: "genus:notiosorex country:&#34;mexico&#34;" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus ismaeli " ; Times: 2
+	Query: "Myotis riparius mappable:1" ; Times: 1
+	Query: "county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; institutioncode:ASNHC" ; Times: 1
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 2
+	Query: "specificepithet:velox genus:Vulpes class:Mammalia stateprovince:&#34;Texas&#34; institutioncode:ASNHC" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 7
+	Query: "ocelot" ; Times: 2
+	Query: "tylomys" ; Times: 1
+	Query: "11225" ; Times: 1
+	Query: "Tonatia bidens mappable:1" ; Times: 1
+	Query: "class:Mammalia institutioncode:ASNHC" ; Times: 2
+	Query: "specificepithet:swarthi institutioncode:ASNHC" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis nigricans " ; Times: 3
+	Query: "genus:Peromyscus catalognumber:10731 institutioncode:ASNHC" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira oporaphilum " ; Times: 1
+	Query: "Big Bend class:Mammalia stateprovince:&#34;Texas&#34; institutioncode:ASNHC" ; Times: 1
+	Query: "genus:Peromyscus catalognumber:11015 institutioncode:ASNHC" ; Times: 1
+	Query: "Canis lupus familiaris mappable:1 year&gt;=1970 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Thyroptera tricolor mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Saccopteryx bilineata " ; Times: 1
+	Query: "Chrotopterus auritus mappable:1" ; Times: 10
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;gallatin&#34; stateprovince:&#34;montana&#34; hastissue:1" ; Times: 1
+	Query: "Mazama americana mappable:1" ; Times: 1
+	Query: "Myocastor coypus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes year &gt;= 1918 year &lt;= 1975 institutioncode:ASNHC" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus planirostris " ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;fremont&#34; stateprovince:&#34;wyoming&#34; hastissue:1" ; Times: 2
+	Query: "ASNHC 2136" ; Times: 2
+	Query: "country:Ecuador scientificname:Megaoryzomys curioi " ; Times: 1
+	Query: "ASNHC 2133" ; Times: 2
+	Query: "specificepithet:narboroughi institutioncode:ASNHC" ; Times: 1
+	Query: "country:Ecuador scientificname:Lonchorhina aurita " ; Times: 3
+	Query: "genus:Peromyscus catalognumber:5586 institutioncode:ASNHC" ; Times: 2
+	Query: "Nesoryzomys narboroughi" ; Times: 1
+	Query: "Saccopteryx leptura mappable:1" ; Times: 1
+	Query: "Big Bend genus:Leptonycteris class:Mammalia stateprovince:&#34;Texas&#34; institutioncode:ASNHC" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 1
+	Query: "Eumops auripendulus mappable:1" ; Times: 1
+	Query: "northern yellow bat" ; Times: 1
+	Query: "platyrrhinus ismaeli" ; Times: 13
+	Query: "genus:Peromyscus institutioncode:ASNHC" ; Times: 1
+	Query: "10408" ; Times: 1
+	Query: "specificepithet:fernandinae institutioncode:ASNHC" ; Times: 1
+	Query: "genus:Spilogale institutioncode:ASNHC" ; Times: 1
+	Query: "genus:lemur preparations:skeleton" ; Times: 2
+	Query: "country:Ecuador scientificname:Artibeus obscurus " ; Times: 1
+	Query: "county:&#34;Presidio&#34; stateprovince:&#34;Texas&#34; institutioncode:ASNHC" ; Times: 1
+	Query: "sciurus carolinensis hastissue:1" ; Times: 1
+	Query: "class:Mammalia distance(location,geopoint(28.671856719474327,-101.58687571262669))&lt;100000" ; Times: 1
+	Query: "country:Ecuador scientificname:Uroderma bilobatum " ; Times: 1
+	Query: "genus:Peromyscus catalognumber:10780 institutioncode:ASNHC" ; Times: 1
+	Query: "country:Ecuador scientificname:Micronycteris megalotis " ; Times: 2
+	Query: "genus:Peromyscus catalognumber:5583 institutioncode:ASNHC" ; Times: 2
+	Query: "country:Ecuador scientificname:Myotis riparius " ; Times: 3
+	Query: "Diceros bicornis mappable:1" ; Times: 1
+	Query: "Lasiurus blossevillii mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys narboroughi " ; Times: 2
+	Query: "genus:Peromyscus catalognumber:10641 institutioncode:ASNHC" ; Times: 1
+	Query: "diphylla" ; Times: 2
+	Query: "Loxodonta africana mappable:1" ; Times: 2
+	Query: "Myotis californicus institutioncode:ASNHC" ; Times: 1
+	Query: "Nasua nasua mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 2
+	Query: "country:Ecuador scientificname:Chiroderma villosum " ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 940 download events in this period)
+Total number of records downloaded: 3315
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: United States ; Times: 14
+	Country: Colombia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-06 ; Times: 5
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-26 ; Times: 4
+	Date: 2019-05-21 ; Times: 2
+	Date: 2019-05-30 ; Times: 1
+	Date: 2019-05-23 ; Times: 1
+	Date: 2019-05-22 ; Times: 1
+	Date: 2019-05-28 ; Times: 1
+	Date: 2019-05-09 ; Times: 2
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-07 ; Times: 2
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-13 ; Times: 1
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-15 ; Times: 1
+	Date: 2019-05-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:mexicanus genus:Peromyscus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Sorex sonomae" ; Times: 1
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "platyrrhinus ismaeli" ; Times: 1
+	Query: "genus:Peromyscus institutioncode:ASNHC" ; Times: 1
+	Query: "Philander opossum year &gt;= 1965 year &lt;= 2019" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "sorex palustris" ; Times: 1
+	Query: "order:Soricomorpha hastissue:1" ; Times: 1
+	Query: "sciurus carolinensis hastissue:1" ; Times: 1
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+	Query: "didelphis marsupialis year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "specificepithet:pardalis genus:leopardus" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "diphylla" ; Times: 1
+	Query: "class:Mammalia locality:Big Bend distance(location,geopoint(29.111422091330006,-103.18072768657356))&lt;49192" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "specificepithet:onca genus:panthera" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+
+
+End of report.
