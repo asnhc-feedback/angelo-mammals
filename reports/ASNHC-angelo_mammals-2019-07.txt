@@ -1,0 +1,201 @@
+Report for Institution Code ASNHC, Resource angelo_mammals
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 118
+Number of records retrieved in searches: 488
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 98
+	Country: Chile ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Vietnam ; Times: 3
+	Country: Peru ; Times: 4
+	Country: Colombia ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-18 ; Times: 12
+	Date: 2019-07-19 ; Times: 9
+	Date: 2019-07-08 ; Times: 18
+	Date: 2019-07-12 ; Times: 2
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-11 ; Times: 5
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-17 ; Times: 9
+	Date: 2019-07-14 ; Times: 1
+	Date: 2019-07-15 ; Times: 8
+	Date: 2019-07-09 ; Times: 4
+	Date: 2019-07-22 ; Times: 1
+	Date: 2019-07-21 ; Times: 3
+	Date: 2019-07-02 ; Times: 4
+	Date: 2019-07-26 ; Times: 7
+	Date: 2019-07-25 ; Times: 3
+	Date: 2019-07-24 ; Times: 2
+	Date: 2019-07-01 ; Times: 10
+	Date: 2019-07-16 ; Times: 9
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-28 ; Times: 1
+	Date: 2019-07-05 ; Times: 1
+	Date: 2019-07-04 ; Times: 2
+	Date: 2019-07-06 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "country:Ecuador scientificname:Lonchorhina aurita " ; Times: 1
+	Query: "country:Ecuador scientificname:Megaoryzomys curioi " ; Times: 1
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 3
+	Query: "country:Ecuador scientificname:Myotis nigricans " ; Times: 3
+	Query: "giant anteater" ; Times: 1
+	Query: "specificepithet:truei county:&#34;Uintah&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:Ammospermophilus specificepithet:harrisii" ; Times: 1
+	Query: "anteater skeleton" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "specificepithet:bottae genus:Thomomys stateprovince:&#34;Texas&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:humeralis genus:Nycticeius county:&#34;hidalgo&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Eptesicus specificepithet:furinalis" ; Times: 1
+	Query: "ocelot" ; Times: 2
+	Query: "Neofelis nebulosa" ; Times: 3
+	Query: "platyrrhinus ismaeli" ; Times: 1
+	Query: "genus:Sciurus specificepithet:aberti" ; Times: 1
+	Query: "catalognumber:13244" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis riparius " ; Times: 1
+	Query: "genus:Bettongia specificepithet:penicillata" ; Times: 1
+	Query: "Caracal caracal" ; Times: 2
+	Query: "catalognumber:11983" ; Times: 1
+	Query: "country:Ecuador scientificname:Molossus molossus " ; Times: 2
+	Query: "genus:Phyllostomus specificepithet:elongatus" ; Times: 1
+	Query: "genus:Liomys specificepithet:salvini " ; Times: 1
+	Query: "genus:Marmota specificepithet:monax" ; Times: 1
+	Query: "Giraffa basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Alcelaphus  specificepithet:buselaphus" ; Times: 1
+	Query: "Sus scrofa mappable:1" ; Times: 1
+	Query: "Vulpes velox mappable:1" ; Times: 2
+	Query: "armadillo skeleton" ; Times: 1
+	Query: "genus:Lasiurus county:&#34;Hidalgo&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:merriami genus:Perognathus preparations:alcoholic" ; Times: 1
+	Query: "genus:Saimiri specificepithet:sciureus" ; Times: 1
+	Query: "class:MAMMALIA county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:ASNHC" ; Times: 1
+	Query: "class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:ASNHC" ; Times: 2
+	Query: "Myotis septentrionalis mappable:1" ; Times: 2
+	Query: "country:Ecuador scientificname:Artibeus obscurus " ; Times: 1
+	Query: "genus:Phyllostomus specificepithet:hastatus" ; Times: 1
+	Query: "genus:Varecia specificepithet:variegata" ; Times: 1
+	Query: "specificepithet:palustris county:&#34;uintah&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus class:MAMMALIA locality:ALPINE year &gt;= 1974" ; Times: 1
+	Query: "specificepithet:irroratus genus:Liomys preparations:alcoholic" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus class:MAMMALIA locality:ALPINE year &gt;= 1974 month &gt;= 6" ; Times: 1
+	Query: "genus:Gorilla specificepithet:gorilla" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:arenarius genus:geomys year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "giant anteater skeleton" ; Times: 2
+	Query: "genus:choeronycteris order:chiroptera class:mammalia country:&#34;united states&#34;" ; Times: 1
+	Query: "class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:ASNHC" ; Times: 1
+	Query: "specificepithet:carolinensis class:MAMMALIA stateprovince:&#34;new york&#34; year &gt;= 1974" ; Times: 1
+	Query: "catalognumber:15911" ; Times: 2
+	Query: "country:Ecuador scientificname:Chiroderma villosum " ; Times: 3
+	Query: "specificepithet:putorius genus:Spilogale stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "specificepithet:catta genus:lemur year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "genus:Lemur specificepithet:catta" ; Times: 1
+	Query: "genus:Tamias specificepithet:cinereicollis" ; Times: 1
+	Query: "specificepithet:gaumeri genus:Heteromys preparations:alcoholic" ; Times: 1
+	Query: "Mazama americana mappable:1" ; Times: 1
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 1
+	Query: "specificepithet:knoxjonesi genus:Geomys hastissue:1" ; Times: 1
+	Query: "lama guanicoe" ; Times: 6
+	Query: "Panthera onca" ; Times: 5
+	Query: "stateprovince:&#34;texas&#34; genus:liomys year &gt;= 1995 year &lt;= 2015" ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys fernandinae " ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "0453" ; Times: 1
+	Query: "specificepithet:catta genus:lemur" ; Times: 1
+	Query: "genus:Alcelaphus " ; Times: 1
+	Query: "snow leopard" ; Times: 1
+	Query: "12108" ; Times: 1
+	Query: "Cavia aperea" ; Times: 1
+	Query: "little brown bat" ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys swarthi " ; Times: 1
+	Query: "class:Mammalia county:&#34;Hopkins&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "county:&#34;Hamilton&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 1
+	Query: "class:Mammalia county:&#34;Hamilton&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus ismaeli " ; Times: 8
+	Query: "Platyrrhinus ismaeli" ; Times: 1
+	Query: "Myotis leibii mappable:1" ; Times: 1
+	Query: "specificepithet:texensis genus:Geomys hastissue:1" ; Times: 1
+	Query: "genus:Redunca" ; Times: 1
+	Query: "specificepithet:arenarius genus:Geomys hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 985 download events in this period)
+Total number of records downloaded: 2232
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Unknown ; Times: 2
+	Country: Peru ; Times: 8
+	Country: Ecuador ; Times: 9
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 2
+	Date: 2019-07-08 ; Times: 1
+	Date: 2019-07-18 ; Times: 3
+	Date: 2019-07-19 ; Times: 3
+	Date: 2019-07-15 ; Times: 3
+	Date: 2019-07-25 ; Times: 12
+	Date: 2019-07-22 ; Times: 1
+	Date: 2019-07-31 ; Times: 1
+	Date: 2019-07-05 ; Times: 3
+	Date: 2019-07-10 ; Times: 2
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-30 ; Times: 4
+	Date: 2019-07-17 ; Times: 1
+	Date: 2019-07-04 ; Times: 2
+	Date: 2019-07-20 ; Times: 3
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-06 ; Times: 1
+	Date: 2019-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1971 year &lt;= 1975" ; Times: 1
+	Query: "family:soricidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 2001 year &lt;= 2005" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 2
+	Query: "platyrrhinus ismaeli" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 3
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1991 year &lt;= 1995" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "galapagos" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1966 year &lt;= 1970" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1990 year &lt;= 1995" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1986 year &lt;= 1990" ; Times: 1
+	Query: "lama guanicoe" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Baja California Sur&#34; continent:America" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1981 year &lt;= 1985" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "Platyrrhinus helleri" ; Times: 5
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1976 year &lt;= 1980" ; Times: 2
+	Query: "dipodomys microps" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Arizona&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 2000 year &lt;= 2004" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+
+
+End of report.
