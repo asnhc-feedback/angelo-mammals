@@ -1,0 +1,206 @@
+Report for Institution Code ASNHC, Resource angelo_mammals
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 133
+Number of records retrieved in searches: 1517
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 3
+	Country: Ireland ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 120
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 3
+	Date: 2020-05-24 ; Times: 4
+	Date: 2020-05-27 ; Times: 16
+	Date: 2020-05-26 ; Times: 11
+	Date: 2020-05-21 ; Times: 2
+	Date: 2020-05-20 ; Times: 2
+	Date: 2020-05-23 ; Times: 3
+	Date: 2020-05-22 ; Times: 20
+	Date: 2020-05-29 ; Times: 2
+	Date: 2020-05-28 ; Times: 3
+	Date: 2020-05-18 ; Times: 2
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-12 ; Times: 3
+	Date: 2020-05-13 ; Times: 3
+	Date: 2020-05-14 ; Times: 5
+	Date: 2020-05-16 ; Times: 2
+	Date: 2020-05-17 ; Times: 13
+	Date: 2020-05-30 ; Times: 4
+	Date: 2020-05-31 ; Times: 1
+	Date: 2020-05-08 ; Times: 10
+	Date: 2020-05-07 ; Times: 6
+	Date: 2020-05-06 ; Times: 6
+	Date: 2020-05-05 ; Times: 1
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-02 ; Times: 1
+	Date: 2020-05-01 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Choeronycteris texas" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "country:Ecuador scientificname:Lonchorhina aurita " ; Times: 2
+	Query: "country:Ecuador scientificname:Nesoryzomys indefessus " ; Times: 1
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 8
+	Query: "southern yellow bat" ; Times: 1
+	Query: "conepatus leuconotus" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Coyote stateprovince:&#34;Texas&#34; year &gt;= 1950 year &lt;= 2020" ; Times: 3
+	Query: "Sigmodon ochrognathus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 2
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 1
+	Query: "2074 peromyscus" ; Times: 1
+	Query: "specificepithet:parma" ; Times: 3
+	Query: "genus:Ammotragus institutioncode:ASNHC" ; Times: 1
+	Query: "Lasiurus blossevillii texas" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 5
+	Query: "&#34;mephitis mephitis&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:fulviventer genus:sigmodon stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "&#34;Sigmodon ochrognathus&#34; county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhinophylla fischerae " ; Times: 1
+	Query: "Conepatus leuconotus leuconotus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "12549" ; Times: 1
+	Query: "lasionycteris noctivagans texas" ; Times: 1
+	Query: "Sigmodon ochrognathus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "&#34;Sigmodon ochrognathus&#34; county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 4
+	Query: "country:Ecuador scientificname:Molossus molossus " ; Times: 2
+	Query: "vampire" ; Times: 1
+	Query: "&#34;Sigmodon ochrognathus&#34; county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; year &gt;= 1995 year &lt;= 2020" ; Times: 2
+	Query: "Coyote stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "Armadillo" ; Times: 2
+	Query: "county:&#34;san cristobal&#34; stateprovince:&#34;Galapagos&#34; country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "sylvilagus robustus" ; Times: 4
+	Query: "county:&#34;Angelina&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Choeronycteris" ; Times: 1
+	Query: "specificepithet:macrotis genus:vulpes stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "catalognumber:13502 institutioncode:ASNHC hastissue:1" ; Times: 1
+	Query: "2071 peromyscus" ; Times: 3
+	Query: "&#34;Sigmodon ochrognathus&#34; county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; (asnhc)" ; Times: 1
+	Query: "Lama guanicoe" ; Times: 7
+	Query: "institutioncode:ASNHC" ; Times: 2
+	Query: "county:&#34;san cristobal&#34;" ; Times: 1
+	Query: "Conepatus leuconotus leuconotus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "&#34;Sigmodon ochrognathus&#34; county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; year &gt;= 1995 year &lt;= 2010" ; Times: 1
+	Query: "specificepithet:audubonii genus:Sylvilagus county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Saccopteryx bilineata " ; Times: 1
+	Query: "country:Ecuador scientificname:Uroderma bilobatum " ; Times: 2
+	Query: "nyctinomops femorosaccus texas" ; Times: 1
+	Query: "&#34;Sigmodon ochrognathus&#34; locality:Elephant Mountain county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:velifer genus:Myotis county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys narboroughi " ; Times: 1
+	Query: "Neotoma lepida" ; Times: 4
+	Query: "Conepatus leuconotus leuconotus county:&#34;mason&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "order:Carnivora stateprovince:&#34;campeche&#34;" ; Times: 1
+	Query: "eumops perotis texas" ; Times: 1
+	Query: "country:Ecuador scientificname:Micronycteris megalotis " ; Times: 2
+	Query: "akers" ; Times: 1
+	Query: "specificepithet:coypus genus:Myocastor hastissue:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis riparius " ; Times: 2
+	Query: "specificepithet:velifer genus:Myotis county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira oporaphilum " ; Times: 2
+	Query: "country:Ecuador scientificname:Nesoryzomys fernandinae " ; Times: 2
+	Query: "lama guanicoe" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus planirostris " ; Times: 2
+	Query: "tamandua mexicana" ; Times: 1
+	Query: "sigmodon fulviventer texas" ; Times: 1
+	Query: "Conepatus leuconotus leuconotus county:&#34;mason&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "genus:Urocyon hastissue:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys swarthi " ; Times: 3
+	Query: "&#34;Sigmodon ochrognathus&#34; locality:alpine county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Onychomys arenicola arenicola stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; “sus scrofa”" ; Times: 1
+	Query: "Myocastor hastissue:1" ; Times: 3
+	Query: "country:Ecuador scientificname:Platyrrhinus ismaeli " ; Times: 1
+	Query: "guanaco" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 2
+	Query: "Neotoma cinerea" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 1106 download events in this period)
+Total number of records downloaded: 5105
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 27
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-04 ; Times: 2
+	Date: 2020-05-30 ; Times: 6
+	Date: 2020-05-23 ; Times: 4
+	Date: 2020-05-22 ; Times: 4
+	Date: 2020-05-28 ; Times: 2
+	Date: 2020-05-18 ; Times: 2
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-08 ; Times: 12
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-06 ; Times: 6
+	Date: 2020-05-13 ; Times: 3
+	Date: 2020-05-03 ; Times: 3
+	Date: 2020-05-02 ; Times: 1
+	Date: 2020-05-01 ; Times: 1
+	Date: 2020-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "order:Rodentia stateprovince:Utah" ; Times: 2
+	Query: "conepatus leuconotus" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:parma" ; Times: 1
+	Query: "mephitis macroura" ; Times: 1
+	Query: "Perognathus flavus" ; Times: 1
+	Query: "Jackson Oregon" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;tabasco&#34;" ; Times: 2
+	Query: "Zalophus californianus" ; Times: 1
+	Query: "order:Rodentia stateprovince:New Mexico" ; Times: 1
+	Query: "order:Rodentia stateprovince:Colorado" ; Times: 2
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Lama guanicoe" ; Times: 4
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Perognathus flavescens" ; Times: 1
+	Query: "peromyscus melanotis" ; Times: 1
+	Query: "specificepithet:trowbridgii genus:sorex" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "vntype:specimen specificepithet:velifer genus:Myotis county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "spilogale gracilis" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:velifer genus:Myotis county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Martes martes" ; Times: 1
+	Query: "lama guanicoe" ; Times: 2
+	Query: "odocoileus hemionus" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "Perognathus merriami" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;campeche&#34;" ; Times: 1
+	Query: "genus:Martes" ; Times: 2
+	Query: "Peropteryx macrotis" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+
+
+End of report.
