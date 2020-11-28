@@ -1,0 +1,245 @@
+Report for Institution Code ASNHC, Resource angelo_mammals
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 199
+Number of records retrieved in searches: 2723
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Netherlands ; Times: 5
+	Country: Mexico ; Times: 60
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 116
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Japan ; Times: 2
+	Country: Hong Kong ; Times: 1
+	Country: Ecuador ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 5
+	Date: 2020-09-08 ; Times: 5
+	Date: 2020-09-03 ; Times: 10
+	Date: 2020-09-02 ; Times: 2
+	Date: 2020-09-01 ; Times: 2
+	Date: 2020-09-07 ; Times: 14
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-21 ; Times: 2
+	Date: 2020-09-20 ; Times: 2
+	Date: 2020-09-23 ; Times: 2
+	Date: 2020-09-22 ; Times: 5
+	Date: 2020-09-25 ; Times: 2
+	Date: 2020-09-24 ; Times: 2
+	Date: 2020-09-27 ; Times: 9
+	Date: 2020-09-26 ; Times: 5
+	Date: 2020-09-29 ; Times: 4
+	Date: 2020-09-28 ; Times: 5
+	Date: 2020-09-16 ; Times: 4
+	Date: 2020-09-14 ; Times: 7
+	Date: 2020-09-15 ; Times: 8
+	Date: 2020-09-30 ; Times: 3
+	Date: 2020-09-17 ; Times: 19
+	Date: 2020-09-10 ; Times: 3
+	Date: 2020-09-11 ; Times: 2
+	Date: 2020-09-12 ; Times: 10
+	Date: 2020-09-13 ; Times: 53
+	Date: 2020-09-18 ; Times: 8
+	Date: 2020-09-19 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Gazella subgutturosa" ; Times: 5
+	Query: "scientificname:Peromyscus mexicanus" ; Times: 2
+	Query: "specificepithet: thibetanus genus:Ursus hastissue:1" ; Times: 1
+	Query: "ailurus" ; Times: 1
+	Query: "country:Ecuador scientificname:Molossus molossus " ; Times: 2
+	Query: "Cricetomys" ; Times: 1
+	Query: "Sylvilagus floridanus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "Sylvilagus robustus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; year &gt;= 2008 year &lt;= 2008 hastissue:1" ; Times: 1
+	Query: "catalognumber:5586 institutioncode:ASNHC" ; Times: 2
+	Query: "277 specificepithet:niger genus:sciurus" ; Times: 1
+	Query: "catalognumber:5848" ; Times: 1
+	Query: "genus:Orycteropus hastissue:1" ; Times: 1
+	Query: "Spilogale putorius hastissue:1" ; Times: 1
+	Query: "Conepatus leuconotus leuconotus county:&#34;mason&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "scientificname:Peromyscus pectoralis" ; Times: 4
+	Query: "swift fox" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "Sylvilagus robustus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "creel" ; Times: 1
+	Query: "coati" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis nigricans " ; Times: 3
+	Query: "scientificname:Oryzomys alfaroi" ; Times: 1
+	Query: "class:Mammalia locality:Cuyabeno country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "chiroptera Tabasco" ; Times: 7
+	Query: "northern flying squirrel" ; Times: 1
+	Query: "catalognumber:10641 institutioncode:ASNHC" ; Times: 2
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 4
+	Query: "specificepithet:sibirica genus:Mustela hastissue:1" ; Times: 1
+	Query: "scientificname:Cryptotis mexicana mexicana" ; Times: 11
+	Query: "catalognumber:5583 institutioncode:ASNHC" ; Times: 2
+	Query: "specificepithet:frenata genus:Mustela hastissue:1" ; Times: 1
+	Query: "scientificname:Oligoryzomys fulvescens" ; Times: 1
+	Query: "vampire" ; Times: 1
+	Query: "Nesoryzomys" ; Times: 7
+	Query: "specificepithet:nigripes genus:Mustela hastissue:1" ; Times: 1
+	Query: "scientificname:Loxodonta africana" ; Times: 5
+	Query: "Sylvilagus robustus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; year &lt;= 2008 hastissue:1" ; Times: 1
+	Query: "Antrozous pallidus pallidus county:&#34;El Paso&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 3
+	Query: "genus:Conepatus hastissue:1" ; Times: 4
+	Query: "county:&#34;upton&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34; (Canis )" ; Times: 1
+	Query: "dinomys" ; Times: 1
+	Query: "Sylvilagus aquaticus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "276 specificepithet:niger genus:sciurus year &gt;= 1970 year &lt;= 2010" ; Times: 1
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "scientificname:Reithrodontomys sumichrasti" ; Times: 2
+	Query: "country:Ecuador scientificname:Lonchophylla robusta " ; Times: 2
+	Query: "scientificname:Nasua narica" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus ismaeli " ; Times: 2
+	Query: "specificepithet:leucoryx genus:Oryx" ; Times: 2
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 3
+	Query: "scientificname:Mustela nigripes year&gt;=2000 year&lt;=2020 month&gt;=1 month&lt;=9 day&gt;=1 day&lt;=20" ; Times: 2
+	Query: "Sylvilagus robustus county:&#34;jeff davis&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 2
+	Query: "kit fox" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 1
+	Query: "&#34;Ototylomys phyllotis&#34; country:&#34;México&#34;" ; Times: 5
+	Query: "scientificname:Peromyscus melanotis" ; Times: 2
+	Query: "black tailed prairie dog" ; Times: 2
+	Query: "pronghorn" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhinophylla fischerae " ; Times: 1
+	Query: "scientificname:Reithrodontomys fulvescens" ; Times: 5
+	Query: "scientificname:Liomys irroratus" ; Times: 2
+	Query: "catalognumber:5581 institutioncode:ASNHC" ; Times: 2
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 1
+	Query: "scientificname:Peromyscus aztecus" ; Times: 2
+	Query: "coyote stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "Didelphis virginiana stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "Spilogale vntype:specimen hastissue:1" ; Times: 1
+	Query: "Notiosorex crawfordi crawfordi stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Saccopteryx bilineata " ; Times: 1
+	Query: "catalognumber:10122" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "stateprovince:&#34;North Carolina&#34; institutioncode:ASNHC" ; Times: 1
+	Query: "marmosa mexicana" ; Times: 2
+	Query: "genus:Leopardus hastissue:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus planirostris " ; Times: 1
+	Query: "country:Ecuador scientificname:Megaoryzomys curioi " ; Times: 1
+	Query: "Didelphis virginiana stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Myocastor hastissue:1" ; Times: 1
+	Query: "specificepithet:lervia genus:Ammotragus" ; Times: 1
+	Query: "country:Ecuador scientificname:Lonchorhina aurita " ; Times: 3
+	Query: "catalognumber:9808 institutioncode:ASNHC" ; Times: 2
+	Query: "Antrozous pallidus pallidus county:&#34;El Paso&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "scientificname:Peromyscus gratus" ; Times: 1
+	Query: "coyote specificepithet:latrans genus:Canis stateprovince:&#34;texas&#34;" ; Times: 3
+	Query: "Conepatus leuconotus leuconotus county:&#34;mason&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34; hastissue:1" ; Times: 1
+	Query: "catalognumber:5339" ; Times: 1
+	Query: "cheetah" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus obscurus " ; Times: 2
+	Query: "scientificname:Cryptotis mexicana" ; Times: 11
+	Query: "country:Ecuador scientificname:Uroderma bilobatum " ; Times: 3
+	Query: "country:Ecuador scientificname:Micronycteris megalotis " ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis riparius " ; Times: 2
+	Query: "country:Ecuador scientificname:Sturnira oporaphilum " ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 1
+	Query: "Antrozous pallidus pallidus county:&#34;El Paso&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:5584 institutioncode:ASNHC" ; Times: 2
+	Query: "Sylvilagus robustus county:&#34;brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:megalophylla genus:Mormoops country:&#34;United States&#34;" ; Times: 4
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 1
+	Query: "genus:Nasua hastissue:1" ; Times: 1
+	Query: "catalognumber:5582 institutioncode:ASNHC" ; Times: 2
+	Query: "Canis county:&#34;upton&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 67 (out of 976 download events in this period)
+Total number of records downloaded: 2412
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 6
+	Country: Mexico ; Times: 15
+	Country: United States ; Times: 43
+	Country: Spain ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 4
+	Date: 2020-09-21 ; Times: 4
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-17 ; Times: 5
+	Date: 2020-09-10 ; Times: 6
+	Date: 2020-09-11 ; Times: 2
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-13 ; Times: 2
+	Date: 2020-09-29 ; Times: 4
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-18 ; Times: 7
+	Date: 2020-09-09 ; Times: 9
+	Date: 2020-09-27 ; Times: 7
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-02 ; Times: 1
+	Date: 2020-09-01 ; Times: 3
+	Date: 2020-09-06 ; Times: 2
+	Date: 2020-09-24 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "Gazella subgutturosa" ; Times: 6
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "class:Mammalia locality:Cuyabeno country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Lepus americanus" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "chiroptera Tabasco" ; Times: 2
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 2
+	Query: "specificepithet:arctos genus:ursus" ; Times: 1
+	Query: "sus scrofa continent:north america" ; Times: 1
+	Query: "ailurus" ; Times: 1
+	Query: "specificepithet:concolor genus:puma continent:North America" ; Times: 1
+	Query: "ostrich" ; Times: 1
+	Query: "condylura cristata" ; Times: 1
+	Query: "family:emballonuridae" ; Times: 1
+	Query: "Phyllostomus elongatus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "Chiroptera Tabasco" ; Times: 2
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "coyote specificepithet:latrans genus:Canis stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Myocastor coypus continent:north america" ; Times: 1
+	Query: "Tabasco" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "myotis californicus" ; Times: 3
+	Query: "genus:Martes specificepithet:americana*" ; Times: 3
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "family:Canidae hastissue:1" ; Times: 1
+	Query: "specificepithet:lupus genus:canis continent:North America" ; Times: 1
+	Query: "Osgoodomys banderanus mexico" ; Times: 2
+	Query: "marmosa mexicana" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "Aplodontia" ; Times: 1
+	Query: "specificepithet:americana genus:Martes" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "country:&#34;México&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 3
+	Query: "myotis yumanensis" ; Times: 2
+	Query: "Cryptotis parva" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "vntype:specimen class:mammalia stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "specificepithet:cristata genus:Condylura" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 1
+
+
+End of report.
