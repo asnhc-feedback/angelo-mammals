@@ -1,0 +1,204 @@
+Report for Institution Code ASNHC, Resource angelo_mammals
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 156
+Number of records retrieved in searches: 1387
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 129
+	Country: Netherlands ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: United Kingdom ; Times: 11
+	Country: Honduras ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-28 ; Times: 5
+	Date: 2020-08-17 ; Times: 2
+	Date: 2020-08-16 ; Times: 9
+	Date: 2020-08-15 ; Times: 4
+	Date: 2020-08-14 ; Times: 1
+	Date: 2020-08-13 ; Times: 2
+	Date: 2020-08-12 ; Times: 4
+	Date: 2020-08-10 ; Times: 7
+	Date: 2020-08-26 ; Times: 7
+	Date: 2020-08-30 ; Times: 4
+	Date: 2020-08-19 ; Times: 20
+	Date: 2020-08-18 ; Times: 1
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-20 ; Times: 4
+	Date: 2020-08-01 ; Times: 7
+	Date: 2020-08-02 ; Times: 2
+	Date: 2020-08-03 ; Times: 5
+	Date: 2020-08-04 ; Times: 2
+	Date: 2020-08-05 ; Times: 23
+	Date: 2020-08-06 ; Times: 4
+	Date: 2020-08-07 ; Times: 5
+	Date: 2020-08-08 ; Times: 6
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-24 ; Times: 5
+	Date: 2020-08-25 ; Times: 1
+	Date: 2020-08-22 ; Times: 2
+	Date: 2020-08-09 ; Times: 5
+	Date: 2020-08-21 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "family:heteromyidae order:Rodentia county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Eumops auripendulus" ; Times: 1
+	Query: "country:Ecuador scientificname:Lonchorhina aurita " ; Times: 2
+	Query: "family:Canidae class:Mammalia (zoo OR captive) institutioncode:ASNHC" ; Times: 1
+	Query: "asnhc 1282" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis nigricans " ; Times: 1
+	Query: "catalognumber:13426 institutioncode:ASNHC" ; Times: 1
+	Query: "swamp rabbit" ; Times: 2
+	Query: "specificepithet:catta genus:Lemur" ; Times: 3
+	Query: "class:Mammalia (zoo OR captive) institutioncode:ASNHC" ; Times: 2
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 12
+	Query: "specificepithet:obscurus genus:Sylvilagus" ; Times: 1
+	Query: "gbifdatasetid:f9772d3a-db34-4a33-baa0-7a016a970358" ; Times: 2
+	Query: "Myotis velifer institutioncode:ASNHC hastissue:1" ; Times: 1
+	Query: "catalognumber:13268 institutioncode:ASNHC" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 4
+	Query: "fischerae" ; Times: 1
+	Query: "catalognumber:6205" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;South Dakota&#34; preparations:skeleton year &gt;= 2005 year &lt;= 2020" ; Times: 1
+	Query: "family:Mephitidae institutioncode:ASNHC" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis riparius " ; Times: 1
+	Query: "Dipodomys elator stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "Erythrocebus patas" ; Times: 1
+	Query: "mappable:1 scientificname:Ammotragus lervia" ; Times: 1
+	Query: "genus:Erythrocebus" ; Times: 1
+	Query: "Trachypithecus francoisi" ; Times: 1
+	Query: "asnhc 6421" ; Times: 2
+	Query: "mappable:1 scientificname:Myocastor coypus" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 4
+	Query: "specificepithet:jubatus genus:Acinonyx" ; Times: 2
+	Query: "vntype:specimen specificepithet:lupus genus:Canis stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:America" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus obscurus " ; Times: 4
+	Query: "Callithrix pygmaea" ; Times: 19
+	Query: "ASNHC 1282" ; Times: 1
+	Query: "Hylobates lar" ; Times: 1
+	Query: "genus:Notiosorex country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Felis silvestris" ; Times: 1
+	Query: "Panthera onca hastissue:1" ; Times: 1
+	Query: "ASNHC 6421" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; genus:liomys year &gt;= 1995 year &lt;= 2015" ; Times: 1
+	Query: "ASNHC 6422" ; Times: 1
+	Query: "catalognumber:16000 institutioncode:ASNHC" ; Times: 3
+	Query: "14370" ; Times: 2
+	Query: "mustela nigripes" ; Times: 1
+	Query: "appalachian cottontail" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "kit fox" ; Times: 1
+	Query: "LASIURUS EGA" ; Times: 1
+	Query: "genus:Sylvilagus obscurus" ; Times: 2
+	Query: "lemur catta" ; Times: 1
+	Query: "institutioncode:ASNHC" ; Times: 3
+	Query: "stateprovince:&#34;texas&#34; specificepithet:arenarius genus:geomys year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 5
+	Query: "Sylvilagus obscurus" ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys indefessus " ; Times: 1
+	Query: "Felis margarita" ; Times: 1
+	Query: "asnhc 6422" ; Times: 2
+	Query: "Cercocebus torquatus" ; Times: 1
+	Query: "country:Ecuador scientificname:Uroderma bilobatum " ; Times: 3
+	Query: "Erythrocebus" ; Times: 1
+	Query: "specificepithet:transitionalis genus:Sylvilagus stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Molossus molossus " ; Times: 2
+	Query: "Swamp rabbit" ; Times: 6
+	Query: "13097" ; Times: 1
+	Query: "Cercopithecus ascanius" ; Times: 1
+	Query: "Raphicerus zoo" ; Times: 1
+	Query: "genus:sylvilagus obscurus" ; Times: 1
+	Query: "star nosed mole" ; Times: 2
+	Query: "Reithrodontomys gracilis" ; Times: 2
+	Query: "genus:Tonatia hastissue:1" ; Times: 1
+	Query: "family:Ursidae class:Mammalia (zoo OR captive) institutioncode:ASNHC" ; Times: 1
+	Query: "country:Ecuador scientificname:Lonchophylla robusta " ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 8
+	Query: "country:Ecuador scientificname:Chiroderma villosum " ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus ismaeli " ; Times: 1
+	Query: "Cercopithecus campbelli" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "Lepus townsendii" ; Times: 1
+	Query: "Cercopithecus wolfi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 756 download events in this period)
+Total number of records downloaded: 17782
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 39
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Burkina Faso ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-08 ; Times: 7
+	Date: 2020-08-06 ; Times: 1
+	Date: 2020-08-10 ; Times: 2
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-13 ; Times: 2
+	Date: 2020-08-11 ; Times: 1
+	Date: 2020-08-07 ; Times: 1
+	Date: 2020-08-26 ; Times: 8
+	Date: 2020-08-09 ; Times: 1
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-25 ; Times: 2
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-24 ; Times: 8
+	Date: 2020-08-20 ; Times: 1
+	Date: 2020-08-21 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "family:heteromyidae order:Rodentia county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "baculum" ; Times: 1
+	Query: "vntype:specimen class:Mammalia stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "Sylvilagus obscurus" ; Times: 1
+	Query: "family:Geomyidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:catta genus:Lemur" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 1
+	Query: "class:Mammalia county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "gbifdatasetid:f9772d3a-db34-4a33-baa0-7a016a970358" ; Times: 1
+	Query: "Myotis velifer institutioncode:ASNHC hastissue:1" ; Times: 1
+	Query: "order:Rodentia county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 2
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "fischerae" ; Times: 1
+	Query: "specificepithet:tigris genus:Panthera" ; Times: 2
+	Query: "Peromyscus gossypinus" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "specificepithet:lateralis genus:Callospermophilus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:Mustela stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "specificepithet:cinereus genus:sorex" ; Times: 2
+	Query: "Sylvilagus aquaticus" ; Times: 1
+	Query: "specificepithet:lateralis genus:Callospermophilus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "myotis leibii" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "genus:Zapus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "family:Geomyidae stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:africanus genus:Phacochoerus" ; Times: 1
+	Query: "specificepithet:austroriparius genus:myotis" ; Times: 2
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 2
+	Query: "specificepithet:lateralis genus:Callospermophilus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Erythrocebus" ; Times: 1
+
+
+End of report.
