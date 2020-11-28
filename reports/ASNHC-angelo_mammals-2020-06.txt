@@ -1,0 +1,138 @@
+Report for Institution Code ASNHC, Resource angelo_mammals
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 99
+Number of records retrieved in searches: 896
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 77
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 11
+	Country: United Kingdom ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-20 ; Times: 4
+	Date: 2020-06-22 ; Times: 2
+	Date: 2020-06-05 ; Times: 7
+	Date: 2020-06-18 ; Times: 2
+	Date: 2020-06-08 ; Times: 29
+	Date: 2020-06-09 ; Times: 7
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-04 ; Times: 12
+	Date: 2020-06-16 ; Times: 3
+	Date: 2020-06-02 ; Times: 2
+	Date: 2020-06-03 ; Times: 4
+	Date: 2020-06-01 ; Times: 3
+	Date: 2020-06-15 ; Times: 1
+	Date: 2020-06-23 ; Times: 1
+	Date: 2020-06-10 ; Times: 5
+	Date: 2020-06-26 ; Times: 1
+	Date: 2020-06-11 ; Times: 2
+	Date: 2020-06-12 ; Times: 4
+	Date: 2020-06-17 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Lagomorpha stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Geomys arenarius" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis nigricans " ; Times: 2
+	Query: "specificepithet:velox genus:Vulpes stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 2
+	Query: "specificepithet:novemcinctus genus:dasypus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "nine-banded armadillo" ; Times: 1
+	Query: "gbifdatasetid:f9772d3a-db34-4a33-baa0-7a016a970358" ; Times: 2
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 2
+	Query: "country:Ecuador scientificname:Myotis riparius " ; Times: 4
+	Query: "class:Mammalia institutioncode:ASNHC" ; Times: 1
+	Query: "Sus scrofa" ; Times: 6
+	Query: "Procyon lotor stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 3
+	Query: "asnhc" ; Times: 1
+	Query: "himalayan tahr" ; Times: 1
+	Query: "Callithrix pygmaea" ; Times: 1
+	Query: "Lasiurus borealis (skin OR fur) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Neofelis" ; Times: 1
+	Query: "bull frog" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus obscurus " ; Times: 2
+	Query: "institutioncode:asnhc catalognumber:13037" ; Times: 1
+	Query: "catalognumber:12345 institutioncode:ASNHC" ; Times: 3
+	Query: "country:Ecuador scientificname:Uroderma bilobatum " ; Times: 2
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys narboroughi " ; Times: 1
+	Query: "Neotoma lepida" ; Times: 3
+	Query: "institutioncode:ASNHC" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 10
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 6
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "catalognumber:13037 institutioncode:ASNHC" ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys indefessus " ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus planirostris " ; Times: 1
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "country:Ecuador scientificname:Megaoryzomys curioi " ; Times: 3
+	Query: "vampire" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela hastissue:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 1
+	Query: "country:Ecuador scientificname:Chiroderma villosum " ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus ismaeli " ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 16
+	Query: "class:mammalia (10058)" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 474 download events in this period)
+Total number of records downloaded: 33448
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Brazil ; Times: 3
+	Country: India ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-09 ; Times: 3
+	Date: 2020-06-02 ; Times: 3
+	Date: 2020-06-04 ; Times: 7
+	Date: 2020-06-05 ; Times: 2
+	Date: 2020-06-11 ; Times: 6
+	Date: 2020-06-01 ; Times: 4
+	Date: 2020-06-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:novemcinctus genus:dasypus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "white tailed deer" ; Times: 1
+	Query: "Lasiurus borealis continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Mammalia institutioncode:ASNHC" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 1
+	Query: "Myotis lucifugus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "grizzly bear" ; Times: 1
+	Query: "bull frog" ; Times: 1
+	Query: "catalognumber:12345 institutioncode:ASNHC" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "institutioncode:ASNHC" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Eptesicus fuscus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "bald eagle" ; Times: 1
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "order:Soricomorpha stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus country:&#34;united states&#34;" ; Times: 1
+	Query: "Myotis lucifugus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "raccoon" ; Times: 1
+
+
+End of report.
