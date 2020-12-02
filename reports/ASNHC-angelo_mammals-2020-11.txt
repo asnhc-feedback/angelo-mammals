@@ -1,0 +1,457 @@
+Report for Institution Code ASNHC, Resource angelo_mammals
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 752
+Number of records retrieved in searches: 9505
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: United States ; Times: 688
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 25
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 10
+	Country: Austria ; Times: 1
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Denmark ; Times: 1
+	Country: Ecuador ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 36
+	Date: 2020-11-21 ; Times: 3
+	Date: 2020-11-22 ; Times: 34
+	Date: 2020-11-23 ; Times: 174
+	Date: 2020-11-24 ; Times: 40
+	Date: 2020-11-25 ; Times: 2
+	Date: 2020-11-08 ; Times: 4
+	Date: 2020-11-09 ; Times: 2
+	Date: 2020-11-06 ; Times: 16
+	Date: 2020-11-07 ; Times: 11
+	Date: 2020-11-04 ; Times: 19
+	Date: 2020-11-05 ; Times: 8
+	Date: 2020-11-02 ; Times: 13
+	Date: 2020-11-03 ; Times: 4
+	Date: 2020-11-01 ; Times: 8
+	Date: 2020-11-26 ; Times: 8
+	Date: 2020-11-27 ; Times: 3
+	Date: 2020-11-29 ; Times: 67
+	Date: 2020-11-19 ; Times: 2
+	Date: 2020-11-18 ; Times: 3
+	Date: 2020-11-30 ; Times: 7
+	Date: 2020-11-15 ; Times: 2
+	Date: 2020-11-14 ; Times: 4
+	Date: 2020-11-17 ; Times: 2
+	Date: 2020-11-16 ; Times: 3
+	Date: 2020-11-11 ; Times: 3
+	Date: 2020-11-10 ; Times: 255
+	Date: 2020-11-13 ; Times: 17
+	Date: 2020-11-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:Peromyscus mexicanus" ; Times: 2
+	Query: "scientificname:Didelphis virginiana" ; Times: 12
+	Query: "Ovis aries" ; Times: 3
+	Query: "catalognumber:6911 institutioncode:ASNHC" ; Times: 2
+	Query: "uncia" ; Times: 1
+	Query: "genus:perognathus county:&#34;pecos&#34; stateprovince:&#34;texas&#34; institutioncode:ASNHC" ; Times: 1
+	Query: "scientificname:Glaucomys volans stateprovince:new york" ; Times: 7
+	Query: "catalognumber:6908 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:6914 institutioncode:ASNHC" ; Times: 2
+	Query: "scientificname:Castor Canadensis" ; Times: 4
+	Query: "ailurus" ; Times: 1
+	Query: "catalognumber:2196 institutioncode:ASNHC" ; Times: 1
+	Query: "scientificname:Zapus hudsonius" ; Times: 4
+	Query: "genus:perognathus county:&#34;Presidio&#34; stateprovince:&#34;texas&#34; institutioncode:ASNHC" ; Times: 1
+	Query: "catalognumber:6190 institutioncode:ASNHC" ; Times: 2
+	Query: "country:Ecuador scientificname:Molossus molossus " ; Times: 6
+	Query: "catalognumber:6930 institutioncode:ASNHC" ; Times: 2
+	Query: "scientificname:Parascalops breweri" ; Times: 2
+	Query: "catalognumber:6918 institutioncode:ASNHC" ; Times: 2
+	Query: "scientificname:Canis lupus" ; Times: 12
+	Query: "scientificname:Tamias striatus stateprovince:new york" ; Times: 14
+	Query: "specificepithet:floridanus genus:sylvilagus country:&#34;Mexico&#34; institutioncode:ASNHC" ; Times: 1
+	Query: "scientificname:Phoca vitulina" ; Times: 2
+	Query: "genus:erethizon hastissue:1" ; Times: 2
+	Query: "Mazama gopher" ; Times: 1
+	Query: "scientificname:Synaptomys borealis" ; Times: 1
+	Query: "scientificname:Mustela frenata stateprovince:new york" ; Times: 7
+	Query: "genus:perognathus county:&#34;jeff davis&#34; stateprovince:&#34;texas&#34; institutioncode:ASNHC" ; Times: 1
+	Query: "genus:perognathus county:&#34;culberson&#34; stateprovince:&#34;texas&#34; institutioncode:ASNHC" ; Times: 1
+	Query: "genus:perognathus county:&#34;terrell&#34; stateprovince:&#34;texas&#34; institutioncode:ASNHC" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Connecticut&#34; institutioncode:ASNHC" ; Times: 1
+	Query: "scientificname:Myotis lucifugus stateprovince:new york" ; Times: 7
+	Query: "scientificname:Cryptotis parva" ; Times: 4
+	Query: "country:Ecuador scientificname:Nesoryzomys indefessus " ; Times: 1
+	Query: "scientificname:Lasiurus seminolus" ; Times: 2
+	Query: "13603" ; Times: 1
+	Query: "scientificname:Lontra canadensis" ; Times: 2
+	Query: "Meles meles" ; Times: 1
+	Query: "scientificname:Napaeozapus insignis" ; Times: 4
+	Query: "genus:Geomys stateprovince:&#34;North Dakota&#34;" ; Times: 1
+	Query: "catalognumber:2910 institutioncode:ASNHC" ; Times: 1
+	Query: "scientificname:Procyon lotor stateprovince:new york" ; Times: 7
+	Query: "catalognumber:6927 institutioncode:ASNHC" ; Times: 2
+	Query: "scientificname:Blarina brevicauda stateprovince:new york" ; Times: 14
+	Query: "14187" ; Times: 1
+	Query: "scientificname:Eptesicus fuscus stateprovince:new york" ; Times: 7
+	Query: "scientificname:Sorex fumeus" ; Times: 1
+	Query: "scientificname:Peromyscus pectoralis" ; Times: 4
+	Query: "catalognumber:14000 institutioncode:ASNHC" ; Times: 1
+	Query: "catalognumber:6921 institutioncode:ASNHC" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "catalognumber:6910 institutioncode:ASNHC" ; Times: 2
+	Query: "scientificname:Glaucomys volans" ; Times: 4
+	Query: "country:Ecuador scientificname:Myotis nigricans " ; Times: 2
+	Query: "scientificname:Oryzomys alfaroi" ; Times: 1
+	Query: "scientificname:Lepus americanus" ; Times: 8
+	Query: "Lemur Catta" ; Times: 1
+	Query: "chiroptera Tabasco" ; Times: 1
+	Query: "scientificname:Zapus hudsonius stateprovince:new york" ; Times: 7
+	Query: "genus:perognathus county:&#34;hudspeth&#34; stateprovince:&#34;texas&#34; institutioncode:ASNHC" ; Times: 1
+	Query: "Tylomys nudicaudus" ; Times: 1
+	Query: "scientificname:Sorex palustris" ; Times: 2
+	Query: "scientificname:Tamias striatus" ; Times: 4
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 2
+	Query: "Sus scrofa" ; Times: 6
+	Query: "ASNHC Texas Myotis californicus" ; Times: 1
+	Query: "catalognumber:3866 institutioncode:ASNHC" ; Times: 2
+	Query: "scientificname:Cryptotis mexicana mexicana" ; Times: 1
+	Query: "Procyon lotor year &gt;= 1998 year &lt;= 1998" ; Times: 1
+	Query: "scientificname:Mustela erminea" ; Times: 4
+	Query: "scientificname:Martes pennanti" ; Times: 2
+	Query: "scientificname:Lynx rufus" ; Times: 8
+	Query: "scientificname:Sylvilagus floridanus" ; Times: 6
+	Query: "scientificname:Oligoryzomys fulvescens" ; Times: 1
+	Query: "lesser kudu" ; Times: 1
+	Query: "country:Ecuador scientificname:Micronycteris megalotis " ; Times: 1
+	Query: "vampire" ; Times: 1
+	Query: "ranch genus:Perognathus family:Heteromyidae order:Rodentia stateprovince:&#34;texas&#34; AND (ASNHC)" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "catalognumber:5733 institutioncode:ASNHC" ; Times: 4
+	Query: "catalognumber:15000 institutioncode:ASNHC" ; Times: 1
+	Query: "scientificname:Microtus pinetorum stateprovince:new york" ; Times: 7
+	Query: "scientificname:Sciurus carolinensis stateprovince:new york" ; Times: 7
+	Query: "genus:perognathus county:&#34;val verde&#34; stateprovince:&#34;texas&#34; institutioncode:ASNHC" ; Times: 1
+	Query: "ASNHC 14032" ; Times: 2
+	Query: "gbifdatasetid:f9772d3a-db34-4a33-baa0-7a016a970358" ; Times: 3
+	Query: "catalognumber:2190 institutioncode:ASNHC" ; Times: 2
+	Query: "scientificname:Marmota monax stateprovince:new york" ; Times: 7
+	Query: "scientificname:Marmota monax" ; Times: 4
+	Query: "ASK6044" ; Times: 1
+	Query: "catalognumber:6925 institutioncode:ASNHC" ; Times: 2
+	Query: "genus:sylvilagus stateprovince:&#34;Tabasco&#34; country:&#34;Mexico&#34; institutioncode:ASNHC" ; Times: 1
+	Query: "scientificname:Lasionycteris noctivagans" ; Times: 4
+	Query: "scientificname:Liomys irroratus" ; Times: 2
+	Query: "scientificname:Cervus elaphus" ; Times: 4
+	Query: "genus:tamias institutioncode:ASNHC" ; Times: 1
+	Query: "genus:perognathus county:&#34;el paso&#34; stateprovince:&#34;texas&#34; institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:6915 institutioncode:ASNHC" ; Times: 2
+	Query: "stateprovince:&#34;texas&#34; AND (ASNHC)" ; Times: 1
+	Query: "scientificname:Lasiurus borealis" ; Times: 8
+	Query: "scientificname:Didelphis virginiana stateprovince:new york" ; Times: 7
+	Query: "Mustela nigripes year &gt;= 1990 year &lt;= 2021" ; Times: 3
+	Query: "catalognumber:6928 institutioncode:ASNHC" ; Times: 2
+	Query: "scientificname:Microtus pinetorum" ; Times: 6
+	Query: "ASNHC canis 9458" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;texas&#34; AND (ASNHC)" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 3
+	Query: "ask7231" ; Times: 6
+	Query: "scientificname:Lasiurus cinereus" ; Times: 4
+	Query: "scientificname:Reithrodontomys sumichrasti" ; Times: 2
+	Query: "scientificname:Odocoileus virginianus" ; Times: 2
+	Query: "ASNHC Myotis californicus" ; Times: 2
+	Query: "scientificname:Peromyscus maniculatus stateprovince:new york" ; Times: 7
+	Query: "country:Ecuador scientificname:Platyrrhinus ismaeli " ; Times: 3
+	Query: "scientificname:Glaucomys sabrinus" ; Times: 4
+	Query: "scientificname:Canis latrans" ; Times: 6
+	Query: "Yellow-bellied Marmot" ; Times: 2
+	Query: "scientificname:Puma concolor" ; Times: 6
+	Query: "ask7084" ; Times: 3
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 4
+	Query: "scientificname:Peromyscus melanotis" ; Times: 2
+	Query: "scientificname:Peromyscus aztecus" ; Times: 2
+	Query: "babyrousa" ; Times: 1
+	Query: "scientificname:Martes americana" ; Times: 4
+	Query: "pronghorn" ; Times: 1
+	Query: "scientificname:Scalopus aquaticus stateprovince:new york" ; Times: 7
+	Query: "scientificname:Mephitis mephitis stateprovince:new york" ; Times: 7
+	Query: "scientificname:Condylura cristata" ; Times: 4
+	Query: "scientificname:Reithrodontomys fulvescens" ; Times: 5
+	Query: "catalognumber:6920 institutioncode:ASNHC" ; Times: 2
+	Query: "genus:conepatus stateprovince:&#34;texas&#34; year &gt;= 2000 year &lt;= 2000" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "catalognumber:6924 institutioncode:ASNHC" ; Times: 2
+	Query: "scientificname:Sciurus niger stateprovince:new york" ; Times: 7
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 4
+	Query: "catalognumber:2198 institutioncode:ASNHC" ; Times: 2
+	Query: "scientificname:Eptesicus fuscus" ; Times: 2
+	Query: "spotted skunk" ; Times: 1
+	Query: "scientificname:Urocyon cinereoargenteus" ; Times: 4
+	Query: "scientificname:Rattus norvegicus stateprovince:new york" ; Times: 7
+	Query: "scientificname:Perimyotis subflavus" ; Times: 4
+	Query: "stateprovince:&#34;texas&#34; genus:liomys year &gt;= 1995 year &lt;= 2015" ; Times: 1
+	Query: "catalognumber:16000 institutioncode:ASNHC" ; Times: 3
+	Query: "scientificname:Ondatra zibethicus" ; Times: 6
+	Query: "scientificname:Sus scrofa" ; Times: 1
+	Query: "country:Ecuador scientificname:Saccopteryx bilineata " ; Times: 2
+	Query: "scientificname:Sylvilagus transitionalis" ; Times: 1
+	Query: "scientificname:Cynomys ludovicianus" ; Times: 7
+	Query: "specificepithet:cinereicollis genus:tamias institutioncode:ASNHC" ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys narboroughi " ; Times: 2
+	Query: "Perognathus stateprovince:&#34;texas&#34; (12 mi S) AND (merriami OR mearnsi)" ; Times: 1
+	Query: "catalognumber:6919 institutioncode:ASNHC" ; Times: 2
+	Query: "scientificname:Mustela frenata" ; Times: 6
+	Query: "catalognumber:6907 institutioncode:ASNHC" ; Times: 2
+	Query: "klipspringer" ; Times: 1
+	Query: "catalognumber:5627" ; Times: 1
+	Query: "catalognumber:3715 institutioncode:ASNHC" ; Times: 2
+	Query: "scientificname:Peromyscus leucopus stateprovince:new york" ; Times: 14
+	Query: "taxidea taxus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "scientificname:Rattus rattus stateprovince:new york" ; Times: 7
+	Query: "country:Ecuador scientificname:Artibeus planirostris " ; Times: 1
+	Query: "Procyon lotor stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "mountain goat" ; Times: 1
+	Query: "catalognumber:6912 institutioncode:ASNHC" ; Times: 2
+	Query: "scientificname:Panthera onca" ; Times: 3
+	Query: "scientificname:Myotis septentrionalis" ; Times: 2
+	Query: "15255" ; Times: 1
+	Query: "scientificname:Lontra canadensis stateprovince:new york" ; Times: 7
+	Query: "scientificname:Nycticeius humeralis" ; Times: 6
+	Query: "scientificname:Myotis leibii" ; Times: 2
+	Query: "scientificname:Peromyscus gratus" ; Times: 1
+	Query: "scientificname:Neovison vison stateprovince:new york" ; Times: 7
+	Query: "ASNHC canis 9457" ; Times: 1
+	Query: "country:Ecuador scientificname:Lonchorhina aurita " ; Times: 1
+	Query: "mule deer" ; Times: 3
+	Query: "scientificname:Blarina brevicauda" ; Times: 2
+	Query: "scientificname:Microtus pennsylvanicus stateprovince:new york" ; Times: 7
+	Query: "14872" ; Times: 1
+	Query: "genus:Perognathus family:Heteromyidae order:Rodentia stateprovince:&#34;texas&#34; AND (ASNHC)" ; Times: 1
+	Query: "scientificname:Mustela nigripes" ; Times: 4
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 4
+	Query: "lemur catta" ; Times: 1
+	Query: "catalognumber:914 institutioncode:ASNHC" ; Times: 2
+	Query: "ASNHC 3631" ; Times: 1
+	Query: "catalognumber:6909 institutioncode:ASNHC" ; Times: 2
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "Perognathus stateprovince:&#34;texas&#34; (asnhc)" ; Times: 1
+	Query: "catalognumber:6926 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:4063 institutioncode:ASNHC" ; Times: 2
+	Query: "country:Ecuador scientificname:Myotis riparius " ; Times: 1
+	Query: "scientificname:Rattus norvegicus" ; Times: 8
+	Query: "Mule Deer" ; Times: 2
+	Query: "scientificname:Neovison vison" ; Times: 4
+	Query: "catalognumber:6923 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:6922 institutioncode:ASNHC" ; Times: 2
+	Query: "scientificname:Procyon lotor" ; Times: 10
+	Query: "genus:perognathus stateprovince:&#34;texas&#34; institutioncode:ASNHC" ; Times: 1
+	Query: "scientificname:Tamiasciurus hudsonicus stateprovince:new york" ; Times: 14
+	Query: "scientificname:Tamiasciurus hudsonicus" ; Times: 2
+	Query: "scientificname:Scalopus aquaticus" ; Times: 4
+	Query: "cheetah" ; Times: 1
+	Query: "scientificname:Sorex cinereus stateprovince:new york" ; Times: 7
+	Query: "country:Ecuador scientificname:Artibeus obscurus " ; Times: 2
+	Query: "genus:perognathus county:&#34;brewster&#34; stateprovince:&#34;texas&#34; institutioncode:ASNHC" ; Times: 2
+	Query: "country:Ecuador scientificname:Lonchophylla robusta " ; Times: 1
+	Query: "scientificname:Mephitis mephitis" ; Times: 12
+	Query: "scientificname:Sylvilagus obscurus" ; Times: 1
+	Query: "scientificname:Lepus californicus" ; Times: 10
+	Query: "country:Ecuador scientificname:Uroderma bilobatum " ; Times: 1
+	Query: "ASNHC canis 8716" ; Times: 1
+	Query: "catalognumber:6916 institutioncode:ASNHC" ; Times: 2
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 3
+	Query: "scientificname:Sciurus carolinensis" ; Times: 2
+	Query: "distance(location,geopoint(0.3515004317455209,39.7848282935589))&lt;100000" ; Times: 1
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 14
+	Query: "scientificname:Sylvilagus transitionalis stateprovince:new york" ; Times: 7
+	Query: "scientificname:Ondatra zibethicus stateprovince:new york" ; Times: 7
+	Query: "scientificname:Bison bison" ; Times: 2
+	Query: "black footed ferret" ; Times: 4
+	Query: "specificepithet:amoenus genus:tamias institutioncode:ASNHC" ; Times: 2
+	Query: "country:Ecuador scientificname:Sturnira oporaphilum " ; Times: 1
+	Query: "catalognumber:3857 institutioncode:ASNHC" ; Times: 1
+	Query: "scientificname:Ursus americanus" ; Times: 2
+	Query: "scientificname:Lasiurus borealis stateprovince:new york" ; Times: 7
+	Query: "scientificname:Myotis lucifugus" ; Times: 6
+	Query: "12415" ; Times: 2
+	Query: "catalognumber:6929 institutioncode:ASNHC" ; Times: 2
+	Query: "catalognumber:7169 institutioncode:ASNHC" ; Times: 1
+	Query: "institutioncode:ASNHC" ; Times: 1
+	Query: "scientificname:Mus musculus stateprovince:new york" ; Times: 7
+	Query: "scientificname:Cryptotis mexicana" ; Times: 1
+	Query: "scientificname:Sylvilagus floridanus stateprovince:new york" ; Times: 7
+	Query: "Tylomys" ; Times: 1
+	Query: "country:Ecuador scientificname:Chiroderma villosum " ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 142 (out of 842 download events in this period)
+Total number of records downloaded: 11223
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 129
+	Country: Canada ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 7
+	Date: 2020-11-22 ; Times: 1
+	Date: 2020-11-23 ; Times: 19
+	Date: 2020-11-26 ; Times: 1
+	Date: 2020-11-09 ; Times: 6
+	Date: 2020-11-06 ; Times: 12
+	Date: 2020-11-07 ; Times: 3
+	Date: 2020-11-04 ; Times: 25
+	Date: 2020-11-05 ; Times: 24
+	Date: 2020-11-02 ; Times: 3
+	Date: 2020-11-03 ; Times: 6
+	Date: 2020-11-08 ; Times: 6
+	Date: 2020-11-28 ; Times: 2
+	Date: 2020-11-29 ; Times: 2
+	Date: 2020-11-18 ; Times: 1
+	Date: 2020-11-30 ; Times: 9
+	Date: 2020-11-15 ; Times: 1
+	Date: 2020-11-17 ; Times: 1
+	Date: 2020-11-11 ; Times: 1
+	Date: 2020-11-10 ; Times: 3
+	Date: 2020-11-13 ; Times: 2
+	Date: 2020-11-12 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "glaucomys volans" ; Times: 1
+	Query: "ailurus" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 2
+	Query: "Peromyscus eremicus" ; Times: 1
+	Query: "camelopardalis" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Heterocephalus glaber" ; Times: 1
+	Query: "Neotoma mexicana" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Connecticut&#34;" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Tamias amoenus" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 2
+	Query: "nanger granti" ; Times: 1
+	Query: "Litocranius walleri walleri" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "lasiurus cinereus" ; Times: 2
+	Query: "specificepithet:mazama genus:thomomys" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 2
+	Query: "Ochrotomys nuttalli" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus" ; Times: 1
+	Query: "Eudorcas thomsonii" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "vntype:specimen specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "Peromyscus boylii" ; Times: 1
+	Query: "syncerus caffer" ; Times: 1
+	Query: "Peromyscus gossypinus" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinerea genus:Neotoma" ; Times: 1
+	Query: "Rattus rattus" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "Tamias quadrivittatus" ; Times: 1
+	Query: "Cynomys ludovicianus" ; Times: 2
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "vulpes vulpes" ; Times: 1
+	Query: "Neotoma albigula" ; Times: 1
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "Mus musculus" ; Times: 2
+	Query: "mustela erminea" ; Times: 1
+	Query: "Aepyceros melampus" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 2
+	Query: "tabasco" ; Times: 1
+	Query: "Mustela nigripes year &gt;= 1990 year &lt;= 2021" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 2
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "eptesicus fuscus" ; Times: 1
+	Query: "Peromyscus mexicanus" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Reithrodontomys fulvescens" ; Times: 1
+	Query: "Peromyscus truei" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "Microtus pinetorum" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "Bison bison" ; Times: 1
+	Query: "condylura cristata" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "Dipodomys spectabilis" ; Times: 1
+	Query: "dipodomys spectabilis" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "Thomomys talpoides" ; Times: 1
+	Query: "Oryzomys palustris" ; Times: 1
+	Query: "Antidorcas marsupialis" ; Times: 1
+	Query: "Alces" ; Times: 1
+	Query: "Ictidomys tridecemlineatus" ; Times: 1
+	Query: "Chaetodipus formosus" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "cope" ; Times: 1
+	Query: "Odocoileus hemionus" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis family:Canidae (zoo OR captive) AND (NOT baileyi NOT familiaris NOT dingo) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Erethizon" ; Times: 1
+	Query: "Procyon lotor stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "panthera Leo" ; Times: 1
+	Query: "Dipodomys microps" ; Times: 1
+	Query: "corynorhinus townsendii" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 2
+	Query: "Napaeozapus insignis" ; Times: 1
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Blarina stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "cryptotis parva" ; Times: 2
+	Query: "Cratogeomys castanops" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Ammospermophilus harrisii" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "dipodomys ordii" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "myodes gapperi" ; Times: 1
+	Query: "Peromyscus crinitus" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "genus:perognathus county:&#34;brewster&#34; stateprovince:&#34;texas&#34; institutioncode:ASNHC" ; Times: 3
+	Query: "myotis lucifugus" ; Times: 1
+	Query: "myotis leibii" ; Times: 1
+	Query: "lasionycteris noctivagans" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 2
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "Onychomys leucogaster" ; Times: 1
+	Query: "philander opossum" ; Times: 2
+	Query: "Neotoma floridana" ; Times: 1
+	Query: "class:Mammalia distance(location,geopoint(43.28527581657787,-75.5302745103836))&lt;191856.53137782737" ; Times: 1
+	Query: "Cavia aperea" ; Times: 1
+	Query: "glaucomys sabrinus" ; Times: 1
+	Query: "Oreotragus oreotragus" ; Times: 1
+	Query: "Reithrodontomys humulis" ; Times: 1
+	Query: "Myodes gapperi" ; Times: 1
+
+
+End of report.
