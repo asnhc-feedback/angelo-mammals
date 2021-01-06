@@ -1,0 +1,217 @@
+Report for Institution Code ASNHC, Resource angelo_mammals
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 250
+Number of records retrieved in searches: 3224
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 197
+	Country: Saudi Arabia ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: El Salvador ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 13
+	Country: Mozambique ; Times: 2
+	Country: Ecuador ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Kenya ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Spain ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 3
+	Date: 2020-12-31 ; Times: 4
+	Date: 2020-12-09 ; Times: 42
+	Date: 2020-12-08 ; Times: 15
+	Date: 2020-12-07 ; Times: 4
+	Date: 2020-12-06 ; Times: 6
+	Date: 2020-12-05 ; Times: 6
+	Date: 2020-12-04 ; Times: 27
+	Date: 2020-12-03 ; Times: 10
+	Date: 2020-12-02 ; Times: 44
+	Date: 2020-12-01 ; Times: 3
+	Date: 2020-12-25 ; Times: 1
+	Date: 2020-12-24 ; Times: 1
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-21 ; Times: 6
+	Date: 2020-12-20 ; Times: 4
+	Date: 2020-12-23 ; Times: 1
+	Date: 2020-12-22 ; Times: 3
+	Date: 2020-12-29 ; Times: 1
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-18 ; Times: 7
+	Date: 2020-12-19 ; Times: 3
+	Date: 2020-12-10 ; Times: 4
+	Date: 2020-12-11 ; Times: 6
+	Date: 2020-12-12 ; Times: 4
+	Date: 2020-12-13 ; Times: 6
+	Date: 2020-12-14 ; Times: 25
+	Date: 2020-12-15 ; Times: 2
+	Date: 2020-12-16 ; Times: 6
+	Date: 2020-12-17 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:novemcinctus genus:Dasypus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "scientificname:Rattus norvegicus stateprovince:new york" ; Times: 2
+	Query: "specificepithet:guanicoe genus:Lama" ; Times: 1
+	Query: "scientificname:Glaucomys volans stateprovince:new york" ; Times: 2
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:ASNHC" ; Times: 1
+	Query: "country:Ecuador scientificname:Molossus molossus " ; Times: 3
+	Query: "Tarrant County" ; Times: 2
+	Query: "Ovis aries" ; Times: 1
+	Query: "scientificname:Tamias striatus stateprovince:new york" ; Times: 4
+	Query: "sika deer" ; Times: 1
+	Query: "mappable:1 scientificname:Ceratotherium simum" ; Times: 1
+	Query: "Procyon lotor stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "scientificname:Mustela frenata stateprovince:new york" ; Times: 2
+	Query: "14840" ; Times: 1
+	Query: "institutioncode:ASNHC" ; Times: 1
+	Query: "scientificname:Myotis lucifugus stateprovince:new york" ; Times: 2
+	Query: "Cervus nippon" ; Times: 2
+	Query: "scientificname:Procyon lotor stateprovince:new york" ; Times: 2
+	Query: "scientificname:Blarina brevicauda stateprovince:new york" ; Times: 4
+	Query: "Nasua nasua" ; Times: 2
+	Query: "scientificname:Eptesicus fuscus stateprovince:new york" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "specificepithet:knoxjonesi genus:geomys" ; Times: 1
+	Query: "Felis silvestris" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; catalognumber:4364 institutioncode:ASNHC" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis nigricans " ; Times: 3
+	Query: "order:Chiroptera continent:South America year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "scientificname:Zapus hudsonius stateprovince:new york" ; Times: 2
+	Query: "Carnegie Museum Mammals" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 6
+	Query: "Rucervus duvaucelii" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "hog-nosed skunk" ; Times: 3
+	Query: "scientificname:Scalopus aquaticus stateprovince:new york" ; Times: 2
+	Query: "vampire" ; Times: 2
+	Query: "specificepithet:minimus genus:tamias institutioncode:ASNHC" ; Times: 1
+	Query: "scientificname:Microtus pinetorum stateprovince:new york" ; Times: 2
+	Query: "scientificname:Sciurus carolinensis stateprovince:new york" ; Times: 2
+	Query: "scientificname:Marmota monax stateprovince:new york" ; Times: 2
+	Query: "scientificname:Didelphis virginiana stateprovince:new york" ; Times: 2
+	Query: "12995" ; Times: 1
+	Query: "Felis margarita" ; Times: 28
+	Query: "mappable:1 scientificname:Diceros bicornis" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "Puma jaguarundi" ; Times: 1
+	Query: "fringed myotis" ; Times: 1
+	Query: "country:Ecuador scientificname:Lonchophylla robusta " ; Times: 3
+	Query: "scientificname:Peromyscus maniculatus stateprovince:new york" ; Times: 2
+	Query: "country:Ecuador scientificname:Platyrrhinus ismaeli " ; Times: 4
+	Query: "stateprovince:&#34;Texas&#34; catalognumber:4744 institutioncode:ASNHC" ; Times: 1
+	Query: "11296" ; Times: 1
+	Query: "scientificname:Mus musculus stateprovince:new york" ; Times: 2
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 6
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 4
+	Query: "Dasyprocta leporina" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "country:Ecuador scientificname:Rhinophylla fischerae " ; Times: 2
+	Query: "scientificname:Mephitis mephitis stateprovince:new york" ; Times: 2
+	Query: "scientificname:Peromyscus leucopus stateprovince:new york" ; Times: 4
+	Query: "scientificname:Sciurus niger stateprovince:new york" ; Times: 3
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 4
+	Query: "Equus caballus" ; Times: 1
+	Query: "specificepithet:astutus genus:bassariscus stateprovince:&#34;texas&#34;" ; Times: 5
+	Query: "country:Ecuador scientificname:Saccopteryx bilineata " ; Times: 2
+	Query: "Phacochoerus" ; Times: 2
+	Query: "crocuta" ; Times: 1
+	Query: "1997-381" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Mexico&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "scientificname:Lasiurus borealis stateprovince:new york" ; Times: 2
+	Query: "scientificname:Rattus rattus stateprovince:new york" ; Times: 2
+	Query: "country:Ecuador scientificname:Artibeus planirostris " ; Times: 2
+	Query: "tamandua mexicana" ; Times: 1
+	Query: "genus:Peromyscus country:&#34;Mexico&#34; year &gt;= 1984 year &lt;= 1984" ; Times: 2
+	Query: "scientificname:Lontra canadensis stateprovince:new york" ; Times: 2
+	Query: "arlington texas" ; Times: 2
+	Query: "scientificname:Neovison vison stateprovince:new york" ; Times: 2
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;Presidio&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "cervus nippon" ; Times: 1
+	Query: "country:Ecuador scientificname:Lonchorhina aurita " ; Times: 3
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 2
+	Query: "locality:Fort Worth stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "specificepithet:leucopus genus:Peromyscus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 20
+	Query: "scientificname:Tamiasciurus hudsonicus stateprovince:new york" ; Times: 4
+	Query: "scientificname:Sorex cinereus stateprovince:new york" ; Times: 2
+	Query: "country:Ecuador scientificname:Artibeus obscurus " ; Times: 5
+	Query: "country:Ecuador scientificname:Uroderma bilobatum " ; Times: 3
+	Query: "Myotis elegans" ; Times: 1
+	Query: "country:Ecuador scientificname:Micronycteris megalotis " ; Times: 2
+	Query: "scientificname:Sylvilagus transitionalis stateprovince:new york" ; Times: 2
+	Query: "scientificname:Ondatra zibethicus stateprovince:new york" ; Times: 2
+	Query: "country:Ecuador scientificname:Sturnira oporaphilum " ; Times: 3
+	Query: "scientificname:Microtus pennsylvanicus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Panthera onca" ; Times: 4
+	Query: "genus:tragulus" ; Times: 1
+	Query: "Myoprocta acouchy" ; Times: 1
+	Query: "scientificname:Sylvilagus floridanus stateprovince:new york" ; Times: 2
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 3
+	Query: "country:Ecuador scientificname:Chiroderma villosum " ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 705 download events in this period)
+Total number of records downloaded: 2162
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 11
+	Country: Germany ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-23 ; Times: 1
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-29 ; Times: 2
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-15 ; Times: 4
+	Date: 2020-12-01 ; Times: 2
+	Date: 2020-12-09 ; Times: 2
+	Date: 2020-12-07 ; Times: 3
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-04 ; Times: 1
+	Date: 2020-12-03 ; Times: 4
+	Date: 2020-12-02 ; Times: 1
+	Date: 2020-12-16 ; Times: 1
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "family:sciuridae" ; Times: 1
+	Query: "order:Chiroptera continent:South America year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "specificepithet:arenarius genus:geomys" ; Times: 2
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:ASNHC" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "genus:Lepus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Procyon lotor stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Martes specificepithet:americana*" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Yucatan&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Mexico&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 2
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "sorex saussurei" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Chihuahua&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "caracal caracal" ; Times: 1
+	Query: "family:Felidae year &gt;= 2000 year &lt;= 2020" ; Times: 1
+
+
+End of report.
